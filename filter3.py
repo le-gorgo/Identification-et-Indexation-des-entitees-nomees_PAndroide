@@ -1,10 +1,11 @@
 #coding: utf8
+import functools
 from sys import argv
 import os, csv, string, codecs
 
 
 def loadRef(nomFic):
-    f=codecs.open(nomFic,"r","ut2f8","replace")
+    f=codecs.open(nomFic,"r","utf8","replace")
     t = f.read()
     l=t.splitlines()
     res=dict()
@@ -43,9 +44,9 @@ def cmp(a, b):
     return (a > b) - (a < b)
 
 dico=loadToSort("toSort.txt")
-keys=sorted(dico,lambda a,b:cmp(len(b),len(a)))
+keys=sorted(dico,key=functools.cmp_to_key(lambda x, y: cmp(len(y), len(x))))
 
-lieux=loadRef("testLieux.txt")
+lieux=loadRef("testLieux.txt") #ajouter le dictionnaire des lieux au corpus
 pers=loadRef("testPers.txt")
 authors=loadRef("testAuthors.txt")
 oeuvres=loadRef("testOeuvres.txt")
@@ -54,6 +55,7 @@ crit=loadRef("testCrit.txt")
 communs=loadRef("testCommun.txt")
 noise=loadRef("testNoise.txt")
 
+#demander au utilisateur de claser les noms
 for mot in keys:
     print("***************\n\n\n",mot, ":", dico[mot],'(',type(mot),')')
     print("1. Lieu")

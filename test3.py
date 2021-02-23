@@ -1,5 +1,6 @@
 # coding: utf8
 import codecs
+import functools
 import string
 
 
@@ -41,17 +42,19 @@ def postFilterRef(dico, ref):
             for k in toRemove:
                 del dico[k]
 
+
 def cmp(a, b):
     return (a > b) - (a < b)
 
+
 def extractFilterRef(dico, ref):
     res = dict()
-    keys = sorted(dico, lambda a, b: cmp(len(b), len(a)))
+    keys = sorted(dico, key=functools.cmp_to_key(lambda x, y: cmp(len(y), len(x))))
     for lab in ref:
         res[lab] = 0
         for mot in ref[lab]:
             f = 0
-            if (mot in dico):
+            if mot in dico:
                 f = dico[mot]
                 res[lab] = res[lab] + dico[mot]
                 del dico[mot]
@@ -352,22 +355,22 @@ f2.close()
 #   print mot, ":", f
 
 print("\nLIEUX")
-for (mot, f) in sorted(list(dlieux.items()), lambda a, b: cmp(a[1], b[1])):
+for (mot, f) in sorted(list(dlieux.items()), key=functools.cmp_to_key(lambda x, y: cmp(len(y), len(x)))):
     print(mot, ":", f)
 print("\nAUTHORS")
-for (mot, f) in sorted(list(dauthors.items()), lambda a, b: cmp(a[1], b[1])):
+for (mot, f) in sorted(list(dauthors.items()), key=functools.cmp_to_key(lambda x, y: cmp(len(y), len(x)))):
     print(mot, ":", f)
 print("\nCRITIQUES")
-for (mot, f) in sorted(list(dcrit.items()), lambda a, b: cmp(a[1], b[1])):
+for (mot, f) in sorted(list(dcrit.items()), key=functools.cmp_to_key(lambda x, y: cmp(len(y), len(x)))):
     print(mot, ":", f)
 print("\nOEUVRES")
-for (mot, f) in sorted(list(doeuvres.items()), lambda a, b: cmp(a[1], b[1])):
+for (mot, f) in sorted(list(doeuvres.items()), key=functools.cmp_to_key(lambda x, y: cmp(len(y), len(x)))):
     print(mot, ":", f)
 print("\nPERSONNAGES")
-for (mot, f) in sorted(list(dpers.items()), lambda a, b: cmp(a[1], b[1])):
+for (mot, f) in sorted(list(dpers.items()), key=functools.cmp_to_key(lambda x, y: cmp(len(y), len(x)))):
     print(mot, ":", f)
 print("\nINSTITUTIONS")
-for (mot, f) in sorted(list(dinst.items()), lambda a, b: cmp(a[1], b[1])):
+for (mot, f) in sorted(list(dinst.items()), key=functools.cmp_to_key(lambda x, y: cmp(len(y), len(x)))):
     print(mot, ":", f)
 
 f2 = codecs.open("toSort.txt", "w", "utf-8", "replace")
