@@ -4,7 +4,7 @@ from sys import argv
 import os, csv, string, codecs
 import ast
 
-
+#present de le programme initial, adapté aux modifications
 def loadRef(nomFic):
     f=codecs.open(nomFic,"r","utf8","replace")
     t = f.read()
@@ -18,11 +18,9 @@ def loadRef(nomFic):
             res[lab].append(r.strip())
     f.close()
     return res
-
+#present de le programme initial
 def saveRef(d,nomFic):
     f=codecs.open(nomFic,"w","utf8","replace")
-    print(d.items())
-    print(d)
     for (lab,liste) in sorted(d.items()):
         line=lab
 
@@ -32,7 +30,7 @@ def saveRef(d,nomFic):
         f.write(line+"\n")
         print(line)
 
-
+#present de le programme initial, adapté aux modifications
 def loadToSort(nomFic):
     f=codecs.open(nomFic,"r","utf8","replace")
     t = f.read()
@@ -62,7 +60,7 @@ def initialisation(listDicoFiles,listDicoNames,communFile="communs.txt",noiseFil
     return toSort,mots,dicos,communs,noise
 
 
-#demander au utilisateur de classer les noms
+#demander au utilisateur de classer les noms : c'est la version initiale un peu modifiée
 def classement(toSort,dicos,communs,noise,corpus):
     for mot in toSort:
         lines=corpus.split("\r")

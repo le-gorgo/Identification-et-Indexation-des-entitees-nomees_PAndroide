@@ -2,8 +2,8 @@
 import codecs
 import functools
 import string
-
-
+#ce fichier reprend le travail du fichier test3.py pour que ce soit plus clair ce qu'il fait
+#present dans le code initial
 def postFilter(dico, liste):
     for mot in liste:
         f = 0
@@ -22,7 +22,7 @@ def postFilter(dico, liste):
         for k in toRemove:
             del dico[k]
 
-
+#present dans le code initial
 def postFilterRef(dico, ref):
     for lab in ref:
         for mot in ref[lab]:
@@ -42,18 +42,18 @@ def postFilterRef(dico, ref):
             for k in toRemove:
                 del dico[k]
 
-
+#present dans le code initial
 def cmp(a, b):
     return (a > b) - (a < b)
 
-
+#present dans le code initial
 def extractFilterRef(dico, ref):
     res = dict()
     keys = sorted(dico, key=functools.cmp_to_key(lambda x, y: cmp(len(y), len(x))))
     for lab in ref:
         res[lab] = 0
         for mot in ref[lab]:
-            
+
             f = 0
             if mot in dico:
                 f = dico[mot]
@@ -74,7 +74,7 @@ def extractFilterRef(dico, ref):
 
     return res
 
-
+#present dans le code initial
 def extractRef(dico, ref):
     res = dict()
     for lab in ref:
@@ -84,7 +84,7 @@ def extractRef(dico, ref):
                 res[lab] = res[lab] + dico[mot]
     return res
 
-
+#present dans le code initial
 def loadRef(nomFic):
     f = codecs.open(nomFic, "r", "utf-8", "replace")
     t = f.read()
@@ -99,7 +99,7 @@ def loadRef(nomFic):
     f.close()
     return res
 
-
+#present dans le code initial
 def saveRef(d, nomFic):
     f = codecs.open(nomFic, "w", "utf8", "replace")
     for (lab, liste) in sorted(d.items()):
@@ -109,7 +109,7 @@ def saveRef(d, nomFic):
         f.write(line + "\n")
         print(line)
 
-
+#present dans le code initial
 def foundIn(mot, expr):
     ind = expr.find(mot)
     if ind < 0:
@@ -120,8 +120,7 @@ def foundIn(mot, expr):
         if not (m in motsE):
             return False
     return True
-
-
+#present dans le code initial
 def isHeadline(line):
     hl = ['id', 'series', 'title', 'creator', 'source', 'created', 'pages', 'subject', 'illustration', 'In']
     for mot in hl:
@@ -129,7 +128,7 @@ def isHeadline(line):
             return True
     return False
 
-
+#present dans le code initial
 def isPrefixe(mot):
     pref = ['M.', 'Mme', 'Mlle', 'Madame', 'Mademoiselle', 'Monsieur', 'Saint']
     if mot in pref:
@@ -138,37 +137,37 @@ def isPrefixe(mot):
         # return True
     return False
 
-
+#present dans le code initial
 def exclus(mot, liste):
     # commun=['Mais','Le', 'La', 'Les', "L'",'Par', 'Quand', 'Que', 'Voir', 'Voici', 'Un', 'Une', 'The', 'Sous','Si','Pour','Et','En','Enfin', 'Entre', 'Dans', "D'apr"+u"\u00e8"+"s", 'Comme', 'Chez', 'Ces', 'Cet', 'Cette', 'Ce', 'Car', 'Apr'+u"\u00e8"+'s', 'Ainsi','Alors','Au']
 
     return mot in liste
 
-
+#present dans le code initial
 def startsUpper(mot):
     if len(mot) > 0 and mot[0] in string.ascii_uppercase:
         return True
     return False
 
-
+#present dans le code initial
 def isInitiales(mot):
     if len(mot) > 1 and mot[0].isupper() and mot[1] in {'.'} and len(mot) < 3:
         return True
     return False
 
-
+#present dans le code initial
 def purgeNotes(mot):
     while len(mot) > 0 and mot[-1].isdigit():
         mot = mot[:-1]
     return mot
 
-
+#present dans le code initial
 def isParticule(mot):
     particules = ['de', 'du', "d'", "de" + '\u2027' + "la", "de" + '\u2027' + "La", "de" + '\u2027' + "l'",
                   "de" + '\u2027' + "L'"]
     return mot in particules
 
-
+#ajoute un mot dans le dico (pas utilisé ici puisque utilisant l'ancienne representation des données)
 def addDico(dico, mot):
     if mot in dico:
         dico[mot] = dico[mot] + 1
@@ -176,7 +175,7 @@ def addDico(dico, mot):
         dico[mot] = 1
 
 
-
+#present dans le fichier initial(pas sur de à quoi ca sert)
 def traiterCreator(line):
     critique = line.split(':')[1].strip()
     print(critique)
@@ -218,7 +217,7 @@ def traiterCreator(line):
     return recompose
 
 
-
+#creer le corpus de textes à pmartir des fichiers passé en arguments
 def initCorpus(fileList,log):
     f=[]
     for file in fileList:
@@ -237,7 +236,7 @@ def initCorpus(fileList,log):
     corpus = corpus.replace("'", "' ")
     corpus = corpus.replace("  ", " ")
     return corpus,logf
-
+#recupere le contenu des dictionnaires(sous forme de fichier) pour les stocker dans un tableau(un dictionnaire serait probablement mieux)
 def initDicos(dicoNames,dicoFiles,communsFile,noiseFile):
     if(not len(dicoNames)==len(dicoFiles)):
         raise ConfigError("Different number of files and names for dictionnaries")
@@ -253,7 +252,8 @@ def initDicos(dicoNames,dicoFiles,communsFile,noiseFile):
     noise = t.splitlines()
     f.close()
     return dicos,communs,noise
-
+#fonction qui detecte les mots qui pourrait etre des noms :
+#code présent dans le fichier initial arranger pour les modifications
 def identify(corpus,exc,logf):
     lines = corpus.split('\r')
     i = 0
@@ -334,7 +334,7 @@ def identify(corpus,exc,logf):
 
         i = i + 1
     return np
-
+#Fonction qui devrait permettre d'utiliser les dicos, pas encore sur du resultat de cette fonction.
 def testDicos(dicos,dicoNames,dicoFiles,np):
     before = len(np)
     dDicos={}
@@ -360,7 +360,7 @@ def testDicos(dicos,dicoNames,dicoFiles,np):
     # dcrit = extractFilterRef(np, crit)
     # noise = loadRef("testNoise.txt")
     # dnoise = extractFilterRef(np, noise)
-
+#creer un fichier à partir de la liste de mots générée
 def generateToSort(np,fileName):
     f = codecs.open(fileName, "w+", "utf-8", "replace")
     for mot in sorted(np, key=functools.cmp_to_key(lambda x, y: cmp(len(x[0]), len(y[0])))):
@@ -369,7 +369,7 @@ def generateToSort(np,fileName):
     f.close()
 
 
-
+#main de test
 if __name__=="__main__":
     dicoFiles=["testLieux.txt","testAuthors.txt","testOeuvres.txt","testPers.txt","testInst.txt","testCrit.txt"]
     dicoNames=["LIEUX","AUTHORS","OEUVRES","PERSONNAGES","INSTITUTIONS","CRITIQUES"]
