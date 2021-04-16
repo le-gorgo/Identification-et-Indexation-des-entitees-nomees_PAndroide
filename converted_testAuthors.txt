@@ -1,0 +1,388 @@
+397:Achim von Arnim|Arnim:
+398:Adélaïde de Souza|Mme de Souza:
+399:Agathias:
+400:Agrippa d'Aubigné|Agrippa d' Aubigné|D' Aubigné:
+401:Ajar-Gary:
+402:Alain Bosquet|Bosquet, Alain (1919-1998)|ALAIN BOSQUET:
+403:Alain Robbe-Grillet|Robbe-Grillet:
+404:Alaxandre Metaxas|M. Metaxas:
+405:Albert Camus|Camus:
+406:Albert Cohen|M. Albert Cohen|Cohen:
+407:Alcée de Messénie|D' Alcée de Messénie:
+408:Aldous Huxley|Huxley:
+409:Alexandre Dumas:
+410:Alexandre Metaxas|M. Alexandre Metaxas:
+411:Alfred Fabre-Luce:
+412:Alfred de Musset|Musset:
+413:Alfred de Vigny:
+414:Alphonse de Lamartine|Lamartine:
+415:Alphée de Mytilène|D' Al-phée de Mytilène:
+416:Amélie Nothomb:
+417:Anacréon:
+418:Anatole France:
+419:André Breton:
+420:André Chamson:
+421:André Chénier|Chénier:
+422:André Gide|Gide de‧L' Immoraliste|Gide:
+423:André Malraux:
+424:André Maurois:
+425:André Pieyre de Mandiargues|M. André Pieyre de Mandiargues:
+426:André Roussin:
+427:André Suarès:
+428:Andréas Calvos:
+429:Andréas Embirikos:
+430:Anna Akhmatova:
+431:Anna de Noailles:
+432:Annie Ernaux:
+433:Antiper de Sidon|D' Antiper de Sidon:
+434:Antiphile de Byzance|D' Antiphile de Byzance:
+435:Anton Tchekhov|Tchekhov:
+436:Antonin Artaud:
+437:Apollonius de Rhodes|D' Apollonius de Rhodes|Apollonios de Rhodes:
+438:Aristophane:
+439:Armand Salacrou:
+440:Arnold Bennett:
+441:Arthur Conan Doyle|Conan Doyle:
+442:Arthur Miller:
+443:Arthur Rimbaud|Rimbaud:
+444:Astolphe de Custine:
+445:August Strindberg|Strindberg|Strinberg:
+446:Benjamin Constant:
+447:Benjamin Péret:
+448:Bernard Clavel|Clavel:
+449:Bernard Palissy:
+450:Bertold Brecht|Brecht:
+451:Bertolt Brecht:
+452:Blaise Pascal|Pascal:
+453:Blaise de Montluc|Montluc:
+454:Callimaque:
+455:Canseliet:
+456:Casimir Delavigne:
+457:Catherine Pozzi:
+458:Catulle:
+459:Charles Baudelaire:
+460:Charles Cestre:
+461:Charles Dickens|Dickens:
+462:Charles Du Bos:
+463:Charles Nodier:
+464:Charles Péguy|Péguy:
+465:Charles d' Orléans:
+466:Charles-Louis de Montesquieu|Montesquieu:
+467:Chaïm Potok:
+468:Cicéron:
+469:Claude Lévi-Strauss:
+470:Claude Mauriac:
+471:Constantin Cavafy|Constantin Kavafis|Constantin Cafary|Cavafy10|Kavafis|Cavafis|Cavafy:
+472:Crinagoras de Rhodes|De Crinagoras de Rhodes:
+473:Daniel Boulanger:
+474:Dante:
+475:Descartes:
+476:Dimitri Mérejkovski|Mérejkovsky:
+477:Dion Cassius|Dion Cassisus:
+478:Dominique Aubier:
+479:Dominique Fernandez:
+480:Dorothy Richardson:
+481:Dostoïevski:
+482:Edgar Allan Poe|Edgar Poe:
+483:Edmond Rostand|Rostand:
+484:Elie Wiesel:
+485:Elémir Bourges:
+486:Embiricos:
+487:Emil Cioran|Cioran:
+488:Enrique Larreta|R. Larreta:
+489:Eschyle:
+490:Etienne Dolet:
+491:Eugène Jotas:
+492:Eugénie de Guérin:
+493:Eugénio de Andrade|Portugais de Andrade:
+494:Euripide:
+495:Federico Garcia Lorca|Garcia Lorca:
+496:Florent Chrestien:
+497:Franz Kafka|Kafka:
+498:François Bondy:
+499:François Coppée:
+500:François Mauriac|Mauriac|Laura:;('Dossier Florimel Graves.docx', 49, 7)
+501:François Rabelais|Rabelais:
+502:François René de Chateaubriand|François-René de Chateaubriand:
+503:François Villon|Villon:
+504:François de la Rochefoucauld|Rochefoucauld:
+505:Françoise Mallet-Joris|Mme Mallet-Joris:
+506:Françoise Parturier:
+507:Françoise Sagan|Sagan:
+508:Friedrich Hebbel|Hebbel:
+509:Frédéric Prokosch:
+510:Gaston Bachelard|Bachelard:
+511:Gaston Bonheur|Bonheur:
+512:George Bernanos|Bernanos:
+513:George Sand:
+514:George Stubbs:
+515:Georges Dumézil:
+516:Georges Jacquemin:
+517:Georges Piroué:
+518:Georges Rodenbach|Rodenbach:
+519:Georges Simenon|Simenon:
+520:Georges Sion|Georges SION:
+521:Georges Séféris|Séféris:
+522:Giacomo Casanova|Casanova:
+523:Giacomo Leopardi|Leopardi:
+524:Gilbert Cesbron:
+525:Gisèle Prassinos:
+526:Goethe:
+527:Grillparzer:
+528:Guillaume Apollinaire|Apollinaire:
+529:Gustave Flaubert|Flaubert|Flaubert de Salammbô:
+530:Guy de Maupassant|Maupassant:
+531:Gérard de Nerval:
+532:Hans Christian Andersen:
+533:Helvétius:
+534:Henri Bergson|Bergson:
+535:Henri Duvernois:
+536:Henri Thomas:
+537:Henri Troyat:
+538:Henri de Montherlant:
+539:Henrik Ibsen|Ibsen:
+540:Henry Fielding|Fielding:
+541:Henry James|Henri James:
+542:Henry Miller:
+543:Henry de Montherlant|M. de Montherlant:
+544:Henryk Sienkiewicz|Sienkiewicz:
+545:Hermann Hesse:
+546:Himérios:
+547:Homère:
+548:Honoré de Balzac|Balzac de Catherine de Médicis:
+549:Horace Walpole|Walpole:
+550:Hortense Flexner:
+551:Hugo von Hoffmanstahl|Hoffmansthal:
+552:Husserl:
+553:Hésiode:
+554:Hölderlin|Hôlderlin|Holderlin:
+555:Ibycos:
+556:Ignace de Loyola|Exercices d' Ignace de Loyola:
+557:Ivo Andric|Bosniaque Ivo Andric:
+558:J.M.G Le Clézio|Clézio:
+559:Jacques Audiberti:
+560:Jacques Cazotte|Cazotte:
+561:Jacques Chardonne|M. Jacques Chardonne:
+562:Jacques Masui:
+563:Jacques-Bénigne Bossuet|Bossuet:
+564:James Baldwin:
+565:James Joyce|Joyce:
+566:James Weldon Johnson:
+567:Jane Austen:
+568:Jean Anouilh|Anouilh:
+569:Jean Cassou:
+570:Jean Cocteau|Ou de Cocteau|Cocteau:
+571:Jean Dorst:
+572:Jean Genet|Genet:
+573:Jean Giono|Giono:
+574:Jean Giraudoux|M. Jean Giraudoux|Giraudoux:
+575:Jean Lombard:
+576:Jean O'Neil|O' Neil:
+577:Jean O’Neil:
+578:Jean Paulhan:
+579:Jean Racine|Racine:
+580:Jean Tortel:
+581:Jean de La Bruyère|Bruyère:
+582:Jean de la Varende|Varende:
+583:Jean de‧la Croix:
+584:Jean-Jacques Rousseau:
+585:Jean-Paul Sartre|Sartre:
+586:Jeanne Galzy:
+587:Jenny de Vasson:
+588:Jim Thompson|Thompson:
+589:Joachim du Bellay|Du Bellay:
+590:John Ford|Ford:
+591:John Keats|Keats:
+592:John Milton|Milton:
+593:Jorge Luis Borges:
+594:Jorge Luis Borgès:
+595:Joseph Kessel:
+596:Joubert:
+597:Joë Bousquet:
+598:Jules Barbey d'Aurevilly|Barbey d' Aurevilly:
+599:Jules Laforgue:
+600:Jules Michelet|Michelet:
+601:Jules Renard:
+602:Jules Romains:
+603:Jules Supervielle:
+604:Jules Verne:
+605:Jules de Gobineau|Gobineau:
+606:Julien Gracq|Julien:
+607:Julien Green:
+608:Julio Cortázar:
+609:Julius Evola:
+610:Juvénal:
+611:Katherine Mansfield:
+612:La Fontaine|Fontaine:
+613:La Promenade au phare|Promenade:
+614:Lina :
+615:Lise Deharme:
+616:Louis Aragon|Aragon de‧La Semaine|Aragon du Crève-cœur:
+617:Louis Pauwels:
+618:Louis de Saint-Simon|Saint-Simon:
+619:Louis-Ferdinand Céline|Céline:
+620:Louise Michel:
+621:Louise Weiss:
+622:Luc de Vauvenargues|Vauvenargues:
+623:Lucien de Samosate|De Lucien de Samosate:
+624:Léon Tolstoï|Tolstoï:
+625:Léonidas de Tarente|De Léonidas de Tarente:
+626:Léopold Senghor:
+627:Léopold Sédar Senghor|Senghor:
+628:M. Bernard Clavel:
+629:M. Georges Neveux:
+630:Madame Reynes-Montlaur:
+631:Madame de Gasparin:
+632:Madame de Ségur:
+633:Madame de Sévigné:
+634:Madame du Deffand:
+635:Marc Aurèle:
+636:Marcel Arland|M. Marcel Arland:
+637:Marcel Brion|Brion:
+638:Marcel Jouhandeau|Jouhandeau:
+639:Marcel Pagnol|Pagnol:
+640:Marcel Proust:
+641:Marcel Schwob:
+642:Marceline Desbordes-Valmore:
+643:Marguerite Audoux:
+644:Marguerite Combes|Mme Marguerite Combes:
+645:Marguerite Yourcenar|Mme Marguerite Yourcenar|Mme M. Yourcenar|M. Yourcenar|Mme Yourcenar|Mme/ Marguerite Yourcenar|Mllc Marguerite Yourcenar|Mlle Yourcenar|Marguerite YOURCENAR|Marguerite Youcrnear|Margerite Yourcenar|Marguente Yourcenar|M”e Marguerite Yourcenar|Madame Marguerite Yourcenar|MARGUERITE YOURCENAR|MARGUERITTE YOURCENAR|Marg Yourcenar|Marquer.T Yourcenar|Mme Marguerite de Crayencour|Mademoiselle de Crayencour|Marguerite de Crayencour|Dame-aux-Yeux-ouverts|Margueritte Yourcenar|Marguerite YourcenaR|Marquerite Yourcenar|Marguerite Robinson|Mlle de Crayencour|Mme De Crayencour|Madame Yourcenar|Mllc Yourcenar|Mlle Youniac|Youcrcenar|Madame Y|M.Y:
+646:Marguerite de Navarre:
+647:Marie Delcourt:
+648:Marie Noël:
+649:Marie-Jeanne Riccobini|Mme Riccobini:
+650:Martin Gray:
+651:Martin Heidegger|Heidegger:
+652:Mary Renault|Mme Renault:
+653:Masaoka Shiki|Shiki:
+654:Maurice Barrès:
+655:Maurice Blanchot:
+656:Maurice Chavardès:
+657:Maurice Genevoix:
+658:Maurice Maeterlinck|Maerterlinck:
+659:Maurice Maindron:
+660:Maurice Regnaut:
+661:Maurice Sachs:
+662:Maurice de Guérin:
+663:Michel Bernard:
+664:Michel Butor:
+665:Michel Foucault:
+666:Michel Tournier:
+667:Michel de Montaigne:
+668:Milan Kundera:
+669:Mme Mary Renault:
+670:Mme de Scudéry:
+671:Mme de Staël:
+672:Mme de‧La Fayette:
+673:Mme de‧la Fayette:
+674:Mme du Deffand:
+675:Molière:
+676:Murasaki Shikibu:
+677:Méléagre de Gadara|De Méléagre de Gadara|Méléagre de Gadana:
+678:Nathalie Sarraute|Mme Sarraute:
+679:Nicolas Bouvier:
+680:Nicolas Machiavel|Machiavel:
+681:Nikos Kazantzakis|Kazantzakis:
+682:Nonnos de Panapolis|Nonnos:
+683:Norman Mailer:
+684:Octave Mirbeau|Mirbeau:
+685:Oscar Wilde|Wilde:
+686:Otto Rung:
+687:Pascale Michon:
+688:Paul Claudel|Claudel:
+689:Paul Féval:
+690:Paul Lorenz:
+691:Paul Valéry:
+692:Paul Verlaine|Verlaine:
+693:Paul Éluard|Eluard:
+694:Pierre Benoit:
+695:Pierre Bergounioux:
+696:Pierre Choderlos de Laclos|Laclos:
+697:Pierre Emmanuel|Pierre Emmanuel de Tombeau d' Orphée|Emmanuel:
+698:Pierre Gascar:
+699:Pierre Loti:
+700:Pierre Nordon:
+701:Pierre de Brantôme|Brantôme:
+702:Pierre de Ronsard|Ronsard:
+703:Platon:
+704:Plaute:
+705:Plutarque:
+706:Prosper Mérimée|Prosper Mérimée de‧la Chronique:
+707:Proust|Prouft:
+708:Rainer Maria Rilke:
+709:Rainer-Maria Rilke|Rilke3:
+710:Remy de Gourmont:
+711:René Char:
+712:René Daumal:
+713:René Etiemble:
+714:René de Obaldia:
+715:Robert Graves|M. Robert Graves|M. Robert Graves:
+716:Robert Mallet:
+717:Robert Margerit|M. Robert Margerit:
+718:Robert Pinget:
+719:Roger Bésus|Bésus:
+720:Roger Caillois:
+721:Roger Ikor:
+722:Roger Martin du Gard|Roger Martin du Gard de Confidence:
+723:Roger Vrigny:
+724:Roland Barthes:
+725:Roland Dorgelès|Dorgelès:
+726:Romain Gary:
+727:Sade:
+728:Saint John Perse|Alexis Léger:
+729:Saint-Exupéry:
+730:Saint-John Perse:
+731:Saint-Just:
+732:Salvat Etchart|M. Salvat Etchart:
+733:Sappho:
+734:Selma Lagerlöf|Suédoise Selma Lagerlöf:
+735:Shakespeare:
+736:Shri Jayadeva|Shri Jaya-deva:
+737:Sigmund Freud:
+738:Simone de Beauvoir|S. de Beauvoir|Mme de Beauvoir:
+739:Simonide:
+740:Socrate:
+741:Sophie Swetchine|Madame Swetchine:
+742:Sophocle:
+743:Spinoza:
+744:Stefan Zweig|Zweig:
+745:Stendhal:
+746:Stéphane Mallarmé|Mallarmé:
+747:Suétone:
+748:Tacite:
+749:Tahar Ben Jelloun:
+750:Tertullien:
+751:Theognis:
+752:Thomas Mann|Mann:
+753:Thomas More:
+754:Thomas de Quincey:
+755:Thornton Wilder|Américain Thornton Wilder|Wilder:
+756:Théocrite:
+757:Théognis:
+758:Tite-Live:
+759:Tomaso Campanella:
+760:Tomasso Campanelia:
+761:Tyrtée:
+762:Valéry Larbaud:
+763:Victor Hugo:
+764:Victor Segalen|Segalen:
+765:Villiers de‧l' Isle-Adam|Villiers de‧l' Isle Adam:
+766:Virgile:
+767:Virginia Woolf|Woolf:
+768:Vittorio Alfieri|Italien Alfieri:
+769:Vladimir Nabokov|Nabokov:
+770:Voltaire:
+771:Walt Whitman|De Walt Whitman:
+772:William Blake|Citons William Blake:
+773:Willy de Spens d'Estignols|Willy de Spens:
+774:Witold Gombowicz|Gombrowicz:
+775:Xénophon:
+776:Yambo Ouologuem|M. Yambo Ouologuem:
+777:Yannick Guillou:
+778:Yukio Mishima|Y. Mishima|Mishima:
+779:Yves Bonnefoy:
+780:Yvette Went-Daoust:
+781:Yvonne Tortat:
+782:Zénon d' Elée:
+783:Épicure|Epicure:
+784:Étienne Dolet|Etierne Dolet:

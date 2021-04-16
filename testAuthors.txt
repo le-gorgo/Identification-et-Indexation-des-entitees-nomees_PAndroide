@@ -1,8 +1,8 @@
 Achim von Arnim|Arnim
 Adélaïde de Souza|Mme de Souza
-Agathias 
+Agathias
 Agrippa d'Aubigné|Agrippa d' Aubigné|D' Aubigné
-Ajar-Gary 
+Ajar-Gary
 Alain Bosquet|Bosquet, Alain (1919-1998)|ALAIN BOSQUET
 Alain Robbe-Grillet|Robbe-Grillet
 Alaxandre Metaxas|M. Metaxas
@@ -10,112 +10,107 @@ Albert Camus|Camus
 Albert Cohen|M. Albert Cohen|Cohen
 Alcée de Messénie|D' Alcée de Messénie
 Aldous Huxley|Huxley
-Alexandre Dumas|Dumas
-Alexandre Dumas 
+Alexandre Dumas
 Alexandre Metaxas|M. Alexandre Metaxas
-Alfred Fabre-Luce|M. Fabre-Luce
-Alfred Fabre-Luce 
+Alfred Fabre-Luce
 Alfred de Musset|Musset
-Alfred de Vigny 
+Alfred de Vigny
 Alphonse de Lamartine|Lamartine
 Alphée de Mytilène|D' Al-phée de Mytilène
-Amélie Nothomb 
-Anacréon 
-Anatole France 
-André Breton 
-André Chamson 
+Amélie Nothomb
+Anacréon
+Anatole France
+André Breton
+André Chamson
 André Chénier|Chénier
 André Gide|Gide de‧L' Immoraliste|Gide
-André Malraux|Malraux
-André Malraux 
-André Maurois 
+André Malraux
+André Maurois
 André Pieyre de Mandiargues|M. André Pieyre de Mandiargues
-André Roussin|Roussin
-André Roussin 
-André Suarès 
-Andréas Calvos 
-Andréas Embirikos 
-Anna Akhmatova 
-Anna de Noailles 
-Annie Ernaux 
+André Roussin
+André Suarès
+Andréas Calvos
+Andréas Embirikos
+Anna Akhmatova
+Anna de Noailles
+Annie Ernaux
 Antiper de Sidon|D' Antiper de Sidon
 Antiphile de Byzance|D' Antiphile de Byzance
 Anton Tchekhov|Tchekhov
-Antonin Artaud 
+Antonin Artaud
 Apollonius de Rhodes|D' Apollonius de Rhodes|Apollonios de Rhodes
-Aristophane 
-Armand Salacrou|Salacrou
-Armand Salacrou 
-Arnold Bennett 
+Aristophane
+Armand Salacrou
+Arnold Bennett
 Arthur Conan Doyle|Conan Doyle
-Arthur Miller 
+Arthur Miller
 Arthur Rimbaud|Rimbaud
-Astolphe de Custine 
+Astolphe de Custine
 August Strindberg|Strindberg|Strinberg
-Benjamin Constant 
-Benjamin Péret 
+Benjamin Constant
+Benjamin Péret
 Bernard Clavel|Clavel
-Bernard Palissy 
+Bernard Palissy
 Bertold Brecht|Brecht
-Bertolt Brecht 
+Bertolt Brecht
 Blaise Pascal|Pascal
 Blaise de Montluc|Montluc
-Callimaque 
-Canseliet 
-Casimir Delavigne 
-Catherine Pozzi 
-Catulle 
-Charles Baudelaire 
-Charles Cestre 
+Callimaque
+Canseliet
+Casimir Delavigne
+Catherine Pozzi
+Catulle
+Charles Baudelaire
+Charles Cestre
 Charles Dickens|Dickens
-Charles Du Bos 
-Charles Nodier 
+Charles Du Bos
+Charles Nodier
 Charles Péguy|Péguy
-Charles d' Orléans 
+Charles d' Orléans
 Charles-Louis de Montesquieu|Montesquieu
-Chaïm Potok 
-Cicéron 
-Claude Lévi-Strauss 
-Claude Mauriac 
+Chaïm Potok
+Cicéron
+Claude Lévi-Strauss
+Claude Mauriac
 Constantin Cavafy|Constantin Kavafis|Constantin Cafary|Cavafy10|Kavafis|Cavafis|Cavafy
 Crinagoras de Rhodes|De Crinagoras de Rhodes
-Daniel Boulanger 
-Dante 
-Descartes 
+Daniel Boulanger
+Dante
+Descartes
 Dimitri Mérejkovski|Mérejkovsky
 Dion Cassius|Dion Cassisus
-Dominique Aubier 
-Dominique Fernandez 
-Dorothy Richardson 
-Dostoïevski 
+Dominique Aubier
+Dominique Fernandez
+Dorothy Richardson
+Dostoïevski
 Edgar Allan Poe|Edgar Poe
 Edmond Rostand|Rostand
-Elie Wiesel 
+Elie Wiesel
 Elémir Bourges
-Embiricos 
+Embiricos
 Emil Cioran|Cioran
 Enrique Larreta|R. Larreta
-Eschyle 
-Etienne Dolet 
-Eugène Jotas 
-Eugénie de Guérin 
+Eschyle
+Etienne Dolet
+Eugène Jotas
+Eugénie de Guérin
 Eugénio de Andrade|Portugais de Andrade
-Euripide 
+Euripide
 Federico Garcia Lorca|Garcia Lorca
-Florent Chrestien 
+Florent Chrestien
 Franz Kafka|Kafka
-François Bondy 
-François Coppée 
+François Bondy
+François Coppée
 François Mauriac|Mauriac
 François Rabelais|Rabelais
 François René de Chateaubriand|François-René de Chateaubriand
 François Villon|Villon
 François de la Rochefoucauld|Rochefoucauld
 Françoise Mallet-Joris|Mme Mallet-Joris
-Françoise Parturier 
+Françoise Parturier
 Françoise Sagan|Sagan
 Friedrich Hebbel|Hebbel
-Frédéric Prokosch 
+Frédéric Prokosch
 Gaston Bachelard|Bachelard
 Gaston Bonheur|Bonheur
 George Bernanos|Bernanos
@@ -130,259 +125,245 @@ Georges Sion|Georges SION
 Georges Séféris|Séféris
 Giacomo Casanova|Casanova
 Giacomo Leopardi|Leopardi
-Gilbert Cesbron|Cesbron
-Gilbert Cesbron 
-Gisèle Prassinos 
-Goethe 
-Grillparzer 
+Gilbert Cesbron
+Gisèle Prassinos
+Goethe
+Grillparzer
 Guillaume Apollinaire|Apollinaire
 Gustave Flaubert|Flaubert|Flaubert de Salammbô
 Guy de Maupassant|Maupassant
-Gérard de Nerval 
-Hans Christian Andersen|Andersen
-Hans Christian Andersen 
-Helvétius 
+Gérard de Nerval
+Hans Christian Andersen
+Helvétius
 Henri Bergson|Bergson
-Henri Duvernois 
-Henri Duvernois  
-Henri Thomas 
-Henri Troyat 
+Henri Duvernois
+Henri Thomas
+Henri Troyat
 Henri de Montherlant
 Henrik Ibsen|Ibsen
 Henry Fielding|Fielding
 Henry James|Henri James
-Henry Miller 
+Henry Miller
 Henry de Montherlant|M. de Montherlant
 Henryk Sienkiewicz|Sienkiewicz
-Hermann Hesse|Hesse
-Hermann Hesse 
-Himérios 
-Homère 
+Hermann Hesse
+Himérios
+Homère
 Honoré de Balzac|Balzac de Catherine de Médicis
 Horace Walpole|Walpole
-Hortense Flexner|Miss Hortie
-Hortense Flexner 
+Hortense Flexner
 Hugo von Hoffmanstahl|Hoffmansthal
-Husserl 
-Hésiode 
+Husserl
+Hésiode
 Hölderlin|Hôlderlin|Holderlin
-Ibycos 
+Ibycos
 Ignace de Loyola|Exercices d' Ignace de Loyola
 Ivo Andric|Bosniaque Ivo Andric
 J.M.G Le Clézio|Clézio
-Jacques Audiberti 
+Jacques Audiberti
 Jacques Cazotte|Cazotte
 Jacques Chardonne|M. Jacques Chardonne
-Jacques Masui 
+Jacques Masui
 Jacques-Bénigne Bossuet|Bossuet
-James Baldwin 
+James Baldwin
 James Joyce|Joyce
-James Weldon Johnson 
-Jane Austen 
+James Weldon Johnson
+Jane Austen
 Jean Anouilh|Anouilh
-Jean Cassou 
+Jean Cassou
 Jean Cocteau|Ou de Cocteau|Cocteau
-Jean Dorst 
+Jean Dorst
 Jean Genet|Genet
 Jean Giono|Giono
 Jean Giraudoux|M. Jean Giraudoux|Giraudoux
 Jean Lombard
 Jean O'Neil|O' Neil
 Jean O’Neil
-Jean Paulhan 
+Jean Paulhan
 Jean Racine|Racine
-Jean Tortel 
+Jean Tortel
 Jean de La Bruyère|Bruyère
 Jean de la Varende|Varende
-Jean de‧la Croix 
-Jean-Jacques Rousseau 
+Jean de‧la Croix
+Jean-Jacques Rousseau
 Jean-Paul Sartre|Sartre
-Jeanne Galzy 
-Jenny de Vasson 
+Jeanne Galzy
+Jenny de Vasson
 Jim Thompson|Thompson
 Joachim du Bellay|Du Bellay
 John Ford|Ford
 John Keats|Keats
 John Milton|Milton
-Jorge Luis Borges 
-Jorge Luis Borgès|Borgès|Borges
-Jorge Luis Borgès 
-Joseph Kessel 
-Joubert 
-Joë Bousquet 
+Jorge Luis Borges
+Jorge Luis Borgès
+Joseph Kessel
+Joubert
+Joë Bousquet
 Jules Barbey d'Aurevilly|Barbey d' Aurevilly
-Jules Laforgue 
+Jules Laforgue
 Jules Michelet|Michelet
-Jules Renard 
-Jules Romains 
-Jules Supervielle 
-Jules Verne 
+Jules Renard
+Jules Romains
+Jules Supervielle
+Jules Verne
 Jules de Gobineau|Gobineau
 Julien Gracq|Julien
-Julien Green 
-Julio Cortázar 
-Julius Evola 
-Juvénal 
-Katherine Mansfield  
+Julien Green
+Julio Cortázar
+Julius Evola
+Juvénal
+Katherine Mansfield
 La Fontaine|Fontaine
 La Promenade au phare|Promenade
-Lise Deharme 
+Lina 
+Lise Deharme
 Louis Aragon|Aragon de‧La Semaine|Aragon du Crève-cœur
 Louis Pauwels
 Louis de Saint-Simon|Saint-Simon
 Louis-Ferdinand Céline|Céline
-Louise Michel 
-Louise Weiss 
+Louise Michel
+Louise Weiss
 Luc de Vauvenargues|Vauvenargues
 Lucien de Samosate|De Lucien de Samosate
 Léon Tolstoï|Tolstoï
 Léonidas de Tarente|De Léonidas de Tarente
-Léopold Senghor 
+Léopold Senghor
 Léopold Sédar Senghor|Senghor
-M. Bernard Clavel 
-M. Georges Neveux 
-Madame Reynes-Montlaur 
-Madame de Gasparin 
-Madame de Ségur 
-Madame de Sévigné 
-Madame du Deffand 
-Marc Aurèle 
+M. Bernard Clavel
+M. Georges Neveux
+Madame Reynes-Montlaur
+Madame de Gasparin
+Madame de Ségur
+Madame de Sévigné
+Madame du Deffand
+Marc Aurèle
 Marcel Arland|M. Marcel Arland
 Marcel Brion|Brion
 Marcel Jouhandeau|Jouhandeau
 Marcel Pagnol|Pagnol
 Marcel Proust
-Marcel Schwob 
-Marceline Desbordes-Valmore 
-Marguerite Audoux 
+Marcel Schwob
+Marceline Desbordes-Valmore
+Marguerite Audoux
 Marguerite Combes|Mme Marguerite Combes
 Marguerite Yourcenar|Mme Marguerite Yourcenar|Mme M. Yourcenar|M. Yourcenar|Mme Yourcenar|Mme/ Marguerite Yourcenar|Mllc Marguerite Yourcenar|Mlle Yourcenar|Marguerite YOURCENAR|Marguerite Youcrnear|Margerite Yourcenar|Marguente Yourcenar|M”e Marguerite Yourcenar|Madame Marguerite Yourcenar|MARGUERITE YOURCENAR|MARGUERITTE YOURCENAR|Marg Yourcenar|Marquer.T Yourcenar|Mme Marguerite de Crayencour|Mademoiselle de Crayencour|Marguerite de Crayencour|Dame-aux-Yeux-ouverts|Margueritte Yourcenar|Marguerite YourcenaR|Marquerite Yourcenar|Marguerite Robinson|Mlle de Crayencour|Mme De Crayencour|Madame Yourcenar|Mllc Yourcenar|Mlle Youniac|Youcrcenar|Madame Y|M.Y
-Marguerite de Navarre 
-Marie Delcourt 
-Marie Noël 
+Marguerite de Navarre
+Marie Delcourt
+Marie Noël
 Marie-Jeanne Riccobini|Mme Riccobini
-Martin Gray 
+Martin Gray
 Martin Heidegger|Heidegger
 Mary Renault|Mme Renault
 Masaoka Shiki|Shiki
-Maurice Barrès|Barrès
-Maurice Barrès 
-Maurice Blanchot 
-Maurice Chavardès 
-Maurice Genevoix|Genevoix
-Maurice Genevoix 
+Maurice Barrès
+Maurice Blanchot
+Maurice Chavardès
+Maurice Genevoix
 Maurice Maeterlinck|Maerterlinck
-Maurice Maindron 
-Maurice Regnaut 
-Maurice Sachs 
-Maurice de Guérin 
-Michel Bernard 
-Michel Butor 
-Michel Foucault 
-Michel Tournier 
+Maurice Maindron
+Maurice Regnaut
+Maurice Sachs
+Maurice de Guérin
+Michel Bernard
+Michel Butor
+Michel Foucault
+Michel Tournier
 Michel de Montaigne
-Milan Kundera 
-Mme Mary Renault 
-Mme de Scudéry 
-Mme de Staël 
-Mme de‧La Fayette 
-Mme de‧la Fayette 
-Mme du Deffand 
-Molière 
-Murasaki Shikibu 
+Milan Kundera
+Mme Mary Renault
+Mme de Scudéry
+Mme de Staël
+Mme de‧La Fayette
+Mme de‧la Fayette
+Mme du Deffand
+Molière
+Murasaki Shikibu
 Méléagre de Gadara|De Méléagre de Gadara|Méléagre de Gadana
 Nathalie Sarraute|Mme Sarraute
-Nicolas Bouvier 
+Nicolas Bouvier
 Nicolas Machiavel|Machiavel
 Nikos Kazantzakis|Kazantzakis
 Nonnos de Panapolis|Nonnos
-Norman Mailer 
+Norman Mailer
 Octave Mirbeau|Mirbeau
 Oscar Wilde|Wilde
-Otto Rung 
-Pascale Michon 
+Otto Rung
+Pascale Michon
 Paul Claudel|Claudel
-Paul Féval 
-Paul Lorenz 
-Paul Valéry|Valéry
-Paul Valéry 
+Paul Féval
+Paul Lorenz
+Paul Valéry
 Paul Verlaine|Verlaine
 Paul Éluard|Eluard
-Pierre Benoit 
-Pierre Bergounioux 
+Pierre Benoit
+Pierre Bergounioux
 Pierre Choderlos de Laclos|Laclos
 Pierre Emmanuel|Pierre Emmanuel de Tombeau d' Orphée|Emmanuel
-Pierre Gascar 
-Pierre Loti 
+Pierre Gascar
+Pierre Loti
 Pierre Nordon
 Pierre de Brantôme|Brantôme
 Pierre de Ronsard|Ronsard
-Platon 
-Plaute 
-Plutarque  
+Platon
+Plaute
+Plutarque
 Prosper Mérimée|Prosper Mérimée de‧la Chronique
 Proust|Prouft
-Rainer Maria Rilke 
+Rainer Maria Rilke
 Rainer-Maria Rilke|Rilke3
-Remy de Gourmont 
-René Char 
-René Daumal 
-René Etiemble 
-René de Obaldia 
+Remy de Gourmont
+René Char
+René Daumal
+René Etiemble
+René de Obaldia
 Robert Graves|M. Robert Graves|M. Robert Graves
-Robert Mallet|Mallet
-Robert Mallet 
+Robert Mallet
 Robert Margerit|M. Robert Margerit
-Robert Pinget 
+Robert Pinget
 Roger Bésus|Bésus
-Roger Caillois|Caillois
-Roger Caillois 
-Roger Ikor 
+Roger Caillois
+Roger Ikor
 Roger Martin du Gard|Roger Martin du Gard de Confidence
-Roger Vrigny|Vrigny
-Roger Vrigny 
-Roland Barthes|Barthes
-Roland Barthes 
+Roger Vrigny
+Roland Barthes
 Roland Dorgelès|Dorgelès
-Romain Gary|Gary
-Romain Gary 
-Sade 
+Romain Gary
+Sade
 Saint John Perse|Alexis Léger
-Saint-Exupéry 
-Saint-John Perse 
-Saint-Just 
+Saint-Exupéry
+Saint-John Perse
+Saint-Just
 Salvat Etchart|M. Salvat Etchart
-Sappho 
+Sappho
 Selma Lagerlöf|Suédoise Selma Lagerlöf
-Shakespeare 
+Shakespeare
 Shri Jayadeva|Shri Jaya-deva
 Sigmund Freud
 Simone de Beauvoir|S. de Beauvoir|Mme de Beauvoir
-Simonide 
+Simonide
 Socrate
 Sophie Swetchine|Madame Swetchine
-Sophocle 
-Spinoza 
+Sophocle
+Spinoza
 Stefan Zweig|Zweig
-Stendhal 
+Stendhal
 Stéphane Mallarmé|Mallarmé
-Suétone 
-Tacite 
-Tahar Ben Jelloun 
-Tertullien 
-Theognis 
+Suétone
+Tacite
+Tahar Ben Jelloun
+Tertullien
+Theognis
 Thomas Mann|Mann
 Thomas More
-Thomas de Quincey 
+Thomas de Quincey
 Thornton Wilder|Américain Thornton Wilder|Wilder
-Théocrite 
-Théognis 
-Tite-Live 
-Tomaso Campanella 
-Tomasso Campanelia 
-Tyrtée 
-Valéry Larbaud|Larbaud
-Valéry Larbaud 
+Théocrite
+Théognis
+Tite-Live
+Tomaso Campanella
+Tomasso Campanelia
+Tyrtée
+Valéry Larbaud
 Victor Hugo
 Victor Segalen|Segalen
 Villiers de‧l' Isle-Adam|Villiers de‧l' Isle Adam
@@ -390,17 +371,16 @@ Virgile
 Virginia Woolf|Woolf
 Vittorio Alfieri|Italien Alfieri
 Vladimir Nabokov|Nabokov
-Voltaire 
+Voltaire
 Walt Whitman|De Walt Whitman
 William Blake|Citons William Blake
 Willy de Spens d'Estignols|Willy de Spens
 Witold Gombowicz|Gombrowicz
-Xénophon 
+Xénophon
 Yambo Ouologuem|M. Yambo Ouologuem
 Yannick Guillou
 Yukio Mishima|Y. Mishima|Mishima
-Yves Bonnefoy|Bonnefoy
-Yves Bonnefoy 
+Yves Bonnefoy
 Yvette Went-Daoust
 Yvonne Tortat
 Zénon d' Elée

@@ -1,0 +1,106 @@
+1000:Académie française|Coupole:
+1001:Apostrophes :
+1002:Bernard de Fallois :
+1003:Bibliothèque Houghton de‧l' Université Harvard :
+1004:Bibliothèque de la Pléiade|Pléiade II:
+1005:Bibliothèque de‧La Pléiade :
+1006:Bibliothèque de‧la Faculté de Philosophie :
+1007:Bibliothèque de‧la Pléiade :
+1008:British Museum :
+1009:CIDMY :
+1010:Cahiers de‧la NRF :
+1011:Calmann-Lévy :
+1012:Cercle Interallié :
+1013:Collège Mérici :
+1014:Comédie-Française :
+1015:Copyright Editions Gallimard :
+1016:Coupole du Palais Mazarin :
+1017:Croix-Rouge :
+1018:Editions Gallimard :
+1019:Editions de France :
+1020:Editions de Minuit :
+1021:Editions du Rocher :
+1022:France Culture :
+1023:France-Culture :
+1024:France-Inter :
+1025:France-Soir :
+1026:French Cultural Services:
+1027:Frick Collection|Collection Frick:
+1028:Fémina-Vacaresco :
+1029:Gallimard :
+1030:Grand Art:
+1031:Grand Pontife:
+1032:Grand Prix National:
+1033:Grandes Eaux de Versailles:
+1034:Hachette:
+1035:Haut Conseil:
+1036:Haute Cour:
+1037:Hogarth Press :
+1038:Immortels :
+1039:Immortels du Quai Conti :
+1040:Institut français / Institut canadien|Institut:
+1041:Jean Myers :
+1042:L'Information littéraire|Information Littéraire:
+1043:La Sorbonne|Sorbonne:
+1044:Librairie Gallimard :
+1045:Librairie Générale Française :
+1046:Librairie Mollat|Mollat:
+1047:Librairie Schoenhof de Cambridge :
+1048:Libération :
+1049:Livre de Poche :
+1050:Légion d'honneur|Légion:
+1051:Maison Descartes de‧l' Institut Français d' Amsterdam:
+1052:McGill University:
+1053:Mercure de France :
+1054:Musée Carnavalet:
+1055:Musée Guimet|Guimet:
+1056:NRF :
+1057:Nouveau Roman :
+1058:Nouvelle Bibliothèque:
+1059:Nouvelle Revue:
+1060:Nouvelle Revue Française:
+1061:Odéon-Théâtre de‧l' Europe :
+1062:Panthéon:
+1063:Paris-Match :
+1064:Paris-Sorbonne:
+1065:Pochothèque :
+1066:Porte Glaive de‧l' Ordre Teutonique:
+1067:Prix Combat:
+1068:Prix Femina|Prix FEMINA|Prix Fémina:
+1069:Prix Fémina|LE PRIX FEMINA:
+1070:Prix Fémina-Vacaresco|Vacaresco:
+1071:Prix Goncourt|Goncourt:
+1072:Prix Interallié|Interallié:
+1073:Prix Nobel|Nobel:
+1074:Prix Renaudot|Renaudot:
+1075:Prix d' Honneur:
+1076:Production Médiathèque Provinciale de Liège:
+1077:Quai Conti :
+1078:Quinzaine Littéraire:
+1079:Radio-Canada :
+1080:Radioscopie|RADIOSCOPIE:
+1081:Revue Lilas:
+1082:Revue de France:
+1083:Revue de Genève:
+1084:Rue Sébastien-Bottin|Sébastien-Bottin:
+1085:Sarah Lawrence College:
+1086:Sarah Lawrence college|Sarah Lawrence:
+1087:Second Empire:
+1088:Service Culturel de‧l' Ambassade de France:
+1089:Théâtre Renaud-Barrault :
+1090:Unesco :
+1091:Université Erwin :
+1092:Université Paris IV Sorbonne|Paris IV:
+1093:Université de Bologne:
+1094:Université de Liège:
+1095:Université de Pavie:
+1096:Université de Yale:
+1097:Universités d' Allemagne:
+1098:Universités de‧la Renaissance:
+1099:Édition Le Centurion|Centurion:
+1100:Éditions Actes sud|Actes Sud:
+1101:Éditions Denoël|Ed Denoël:
+1102:Éditions Grasset|Grasset:
+1103:Éditions Plon|Plon:
+998:Académie Française :
+999:Académie Royale de Belgique :
