@@ -3,15 +3,14 @@ import functools
 from sys import argv
 import os, csv, string, codecs
 import ast
-from mainWindow import *
-from PyQt5.QtGui import *
-from PyQt5.QtWidgets import *
-from PyQt5.QtCore import *
 import textdistance
 
 #present de le programme initial, adapté aux modifications
 def loadRef(nomFic,max_id):
-    f = codecs.open(nomFic, "r", "utf-8", "replace")
+    if(os.path.isfile(nomFic)):
+        f = codecs.open(nomFic, "r", "utf-8", "replace")
+    else:
+        f=codecs.open(nomFic, "w+", "utf-8", "replace")
     t = f.read()
     l = t.splitlines()
     res = dict()
@@ -27,7 +26,10 @@ def loadRef(nomFic,max_id):
     return res,max_id
 
 def loadMiscRef(nomFic):
-    f = codecs.open(nomFic, "r", "utf-8", "replace")
+    if(os.path.isfile(nomFic)):
+        f = codecs.open(nomFic, "r", "utf-8", "replace")
+    else:
+        f=codecs.open(nomFic, "w+", "utf-8", "replace")
     t = f.read()
     l = t.splitlines()
     res = dict()
@@ -41,7 +43,7 @@ def loadMiscRef(nomFic):
 
 #present de le programme initial
 def saveRef(d,nomFic):
-    f=codecs.open(nomFic,"w","utf8","strict")
+    f=codecs.open(nomFic,"w+","utf8","strict")
     for (lab,listes) in sorted(d.items()):
         line=lab+":"
         for mot in listes[0]:
@@ -56,7 +58,7 @@ def saveRef(d,nomFic):
     f.close()
 
 def saveMiscRef(d,nomFic):
-    f=codecs.open(nomFic,"w","utf8","replace")
+    f=codecs.open(nomFic,"w+","utf8","replace")
     for mot,occurences in d.items():
         line=mot+":"
         for occ in occurences:
@@ -78,6 +80,9 @@ def loadToSort(nomFic):
         coords=[ast.literal_eval(p) for p in pos]
         res.append((mot,coords))
     f.close()
+
+    res.sort(reverse=True,key=lambda x: len(x[0]))
+
     return res
 
 def cmp(a, b):
@@ -121,14 +126,15 @@ def getAliases(dicos,id):
 
         if(id in dico[1].keys()):
             return dico[1][id][0]
-def afficher_contexte(occurence,corpus):
+def afficher_contexte(occurence,corpus,numWords):
     line=corpus[occurence[0]].splitlines()[int(occurence[1])]
     line=line.split()
-    line[int(occurence[2])]="\033[44;33m"+line[occurence[2]]+"\033[m"
+    for i in range(numWords):
+        line[int(occurence[2])-i]="\033[44;33m"+line[occurence[2]-i]+"\033[m"
     str=""
     for m in line:
         str+=m+" "
-    print(str)
+    print(str+"\n")
 
 #demander au utilisateur de classer les noms : c'est la version initiale un peu modifiée
 def classement(toSort,dicos,communs,noise,corpus,max_id):
@@ -138,7 +144,7 @@ def classement(toSort,dicos,communs,noise,corpus,max_id):
             return
         for occurence in mot[1]:
             print("***************\n\n\n",mot[0], ":",'(',type(mot),')')
-            afficher_contexte(occurence,corpus)
+            afficher_contexte(occurence,corpus,len(mot[0].split()))
             sugg=suggestion(dicos,mot[0])
 
 
@@ -154,7 +160,7 @@ def classement(toSort,dicos,communs,noise,corpus,max_id):
                 line=str(i)+". "
                 for alias in a:
                     line+=alias+', '
-                line+='SCORE : '+str(scores[len(sugg)-i])
+                line+='SCORE : '+str(scores[len(sugg)-i])+"\n"
                 print(line)
             print(0,". Autre")
             print("-1. Ignorer")
@@ -267,14 +273,3 @@ def sauvegarde(dicos,communs,noise):
     saveMiscRef(noise[0],noise[1])
     print("\nCommun")
     saveMiscRef(communs[0],communs[1])
-
-
-#main de test
-if __name__=="__main__":
-    listDicoFiles=["testLieux.txt","testAuthors.txt","testOeuvres.txt","testPers.txt","testInst.txt","testCrit.txt"]
-    listDicoNames=["LIEUX","AUTHORS","OEUVRES","PERSONNAGES","INSTITUTIONS","CRITIQUES"]
-    communFile="testCommun.txt"
-    noiseFile="testNoise.txt"
-    toSort,mots,dicos,communs,noise=initialisation(listDicoFiles,listDicoNames,communFile,noiseFile,"toSort2.txt")
-    classement(toSort,dicos,communs,noise,corpus)
-    sauvegarde(dicos,communs,noise)

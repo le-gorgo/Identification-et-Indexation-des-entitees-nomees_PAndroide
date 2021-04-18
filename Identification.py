@@ -3,6 +3,7 @@ import codecs
 import functools
 import string
 import pypandoc
+import os
 #ce fichier reprend le travail du fichier test3.py pour que ce soit plus clair ce qu'il fait
 #present dans le code initial
 def postFilter(dico, liste):
@@ -88,7 +89,10 @@ def extractRef(dico, ref):
 #present dans le code initial
 #On suppose que le fichier est dans le bon format c'est à dire <identifiant>:<alias séparés par des | >:<occurences sous forme (fichier,ligne,mot) séparés par des ;>
 def loadRef(nomFic,occurences):
-    f = codecs.open(nomFic, "r", "utf-8", "replace")
+    if(os.path.isfile(nomFic)):
+        f = codecs.open(nomFic, "r", "utf-8", "replace")
+    else:
+        f=codecs.open(nomFic, "w+", "utf-8", "replace")
     t = f.read()
     l = t.splitlines()
     res = dict()
@@ -106,7 +110,10 @@ def loadRef(nomFic,occurences):
     f.close()
     return res,occurences
 def loadMiscRef(nomFic,occurences):
-    f = codecs.open(nomFic, "r", "utf-8", "replace")
+    if(os.path.isfile(nomFic)):
+        f = codecs.open(nomFic, "r", "utf-8", "replace")
+    else:
+        f=codecs.open(nomFic, "w+", "utf-8", "replace")
     t = f.read()
     l = t.splitlines()
     res = dict()
@@ -121,7 +128,7 @@ def loadMiscRef(nomFic,occurences):
     return res,occurences
 #present dans le code initial
 def saveRef(d, nomFic):
-    f = codecs.open(nomFic, "w", "utf8", "replace")
+    f = codecs.open(nomFic, "w+", "utf8", "replace")
     for (lab, liste) in sorted(d.items()):
         line = lab
         for mot in liste[1:]:
@@ -371,98 +378,3 @@ if __name__=="__main__":
     dicos,communs,noise=initDicos(dicoNames,dicoFiles,communsFile,noiseFile) #les variables sont inutiles pour l'instant vu qu'on ne teste plus rien sur la presence des mots dans un dico.
     np=identify(corpus,communs,logf)
     generateToSort(np,"toSort2.txt")
-
-# f1 = codecs.open("articles_presse_yourcenar.txt", "r", "utf-8", "replace")
-# f2 = codecs.open("out.log", "w", "utf-8", "replace")
-# text = f1.read()
-#
-# text = text.replace('\u2026', ' ')
-# text = text.replace('\u2019', "'")
-# text = text.replace("de la", "de" + '\u2027' + "la")
-# text = text.replace("de La", "de" + '\u2027' + "La")
-# text = text.replace("de l'", "de" + '\u2027' + "l'")
-# text = text.replace("de L'", "de" + '\u2027' + "L'")
-# text = text.replace("'", "' ")
-# text = text.replace("  ", " ")
-# text=text.decode('unicode_escape','replace').encode('ascii','replace')
-# text=text.replace(u'\xc3\xa9','e')
-# text=text.replace("\xc2\xa0"," ")
-# f3 = codecs.open("testCommun.txt", "r", "utf-8", "replace")
-# t = f3.read()
-# commun = t.splitlines()
-# f3.close()
-# exc = commun
-
-# f3=codecs.open("dicoLieux.txt","r","utf-8","replace")
-# t = f3.read()
-# lieux=t.splitlines()
-# f3.close()
-# crit = loadRef("testCrit.txt")
-
-
-    # if i>20 :
-# break
-
-# f1.close()
-
-# saveRef(crit, "testCrit.txt")
-#
-# before = len(np)
-# # lieux=loadRef("refLieux.txt")
-# lieux = loadRef("testLieux.txt")
-# dlieux = extractFilterRef(np, lieux)
-# # pers=loadRef("refPerson.txt")
-# pers = loadRef("testPers.txt")
-# dpers = extractFilterRef(np, pers)
-# # authors=loadRef("refAuthor.txt")
-# authors = loadRef("testAuthors.txt")
-# dauthors = extractFilterRef(np, authors)
-# # oeuvres=loadRef("refOeuvre.txt")
-# oeuvres = loadRef("testOeuvres.txt")
-# doeuvres = extractFilterRef(np, oeuvres)
-# # inst=loadRef("refInst.txt")
-# inst = loadRef("testInst.txt")
-# dinst = extractFilterRef(np, inst)
-# crit = loadRef("testCrit.txt")
-# dcrit = extractFilterRef(np, crit)
-# noise = loadRef("testNoise.txt")
-# dnoise = extractFilterRef(np, noise)
-
-# print("Resultats : ")
-# f2.write("\n\n Resultats : \n")
-# for mot in sorted(np):
-#     print(mot, ":", np[mot])
-#     f2.write(mot + " : " + str(np[mot]) + "\n")
-# f2.close()
-
-# print "RESTE"
-# for (mot,f) in sorted(np.items(),lambda a,b:cmp(a[1],b[1])):
-#   print mot, ":", f
-
-# print("\nLIEUX")
-# for (mot, f) in sorted(list(dlieux.items()), key=functools.cmp_to_key(lambda x, y: cmp(len(y), len(x)))):
-#     print(mot, ":", f)
-# print("\nAUTHORS")
-# for (mot, f) in sorted(list(dauthors.items()), key=functools.cmp_to_key(lambda x, y: cmp(len(y), len(x)))):
-#     print(mot, ":", f)
-# print("\nCRITIQUES")
-# for (mot, f) in sorted(list(dcrit.items()), key=functools.cmp_to_key(lambda x, y: cmp(len(y), len(x)))):
-#     print(mot, ":", f)
-# print("\nOEUVRES")
-# for (mot, f) in sorted(list(doeuvres.items()), key=functools.cmp_to_key(lambda x, y: cmp(len(y), len(x)))):
-#     print(mot, ":", f)
-# print("\nPERSONNAGES")
-# for (mot, f) in sorted(list(dpers.items()), key=functools.cmp_to_key(lambda x, y: cmp(len(y), len(x)))):
-#     print(mot, ":", f)
-# print("\nINSTITUTIONS")
-# for (mot, f) in sorted(list(dinst.items()), key=functools.cmp_to_key(lambda x, y: cmp(len(y), len(x)))):
-#     print(mot, ":", f)
-
-# f2 = codecs.open("toSort.txt", "w", "utf-8", "replace")
-# for mot in sorted(np):
-#     # print mot, ":", np[mot]
-#     f2.write(mot + " : " + str(np[mot]) + "\n")
-# f2.close()
-
-# print("Nb References : ", len(np), "avant posfiltering : ", before, "lieux : ", len(dlieux), "auteurs : ",
-#       len(dauthors))

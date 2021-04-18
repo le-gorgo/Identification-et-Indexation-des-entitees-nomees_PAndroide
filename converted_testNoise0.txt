@@ -1,2 +1,0 @@
-Conquête:('Dossier Florimel Graves.docx', 4, 8);('Dossier Garlan Durwell.docx', 7, 8);('Dossier Garlan Durwell.docx', 162, 7);('Colin Pommingham.docx', 6, 8);;('Dossier Florimel Graves.docx', 4, 8);('Dossier Garlan Durwell.docx', 7, 8);('Dossier Garlan Durwell.docx', 162, 7);('Colin Pommingham.docx', 6, 8)
-Fille de Bonnifer:('Dossier Florimel Graves.docx', 8, 4)
