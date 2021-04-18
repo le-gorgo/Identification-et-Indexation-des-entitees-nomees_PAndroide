@@ -1,0 +1,16 @@
+[Corpus]
+fichiers=Corpus
+
+[Dictionnaires]
+dicoTest=Dicos\\converted_dicoTest.txt
+LIEUX=Dicos\\converted_testLieux.txt
+AUTHORS=Dicos\\converted_testAuthors.txt
+OEUVRES=Dicos\\converted_testOeuvres.txt
+PERSONNAGES=Dicos\\converted_testPers.txt
+INSTITUTIONS=Dicos\\converted_testInst.txt
+CRITIQUES=Dicos\\converted_testCrit.txt
+
+[Autre]
+Communs = Dicos\\communs.txt
+Bruits = Dicos\\noise.txt
+
