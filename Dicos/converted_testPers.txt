@@ -1,0 +1,682 @@
+1016:4|Wincie King:
+1017:Abbé Blanès|Blanès:
+1018:Achille :
+1019:Adam :
+1020:Admète :
+1021:Adolf Hitler|Hitler:
+1022:Agathocle :
+1023:Agrippa de Nettesheim :
+1024:Alain Peyrefitte :
+1025:Alberico de Numi :
+1026:Albert Dürer :
+1027:Albertine :
+1028:Alceste :
+1029:Alcibiade :
+1030:Alcide :
+1031:Alessandro Sarti|Alessandro:
+1032:Alessandro Sarti :
+1033:Alexandre Farnèse :
+1034:Alexis Géra|Alexis de Géra:
+1035:Alfred Dreyfus|Dreyfus:
+1036:Ambroise Paré :
+1037:Amnon :
+1038:Amyntas :
+1039:Anactoria :
+1040:Andrew Wyeth :
+1041:Andromaque :
+1042:André Delvaux :
+1043:André Fraigneau|Fraigneau:
+1044:André Fraigneau :
+1045:André Green :
+1046:André Vésale|Vésale:
+1047:André Vésale :
+1048:André Wilms :
+1049:Angelina :
+1050:Angeola Fidès :
+1051:Angiola :
+1052:Antigone|Antigono:
+1053:Antinoüs :
+1054:Antonin :
+1055:Aphrodite :
+1056:Apollodore :
+1057:Apollon :
+1058:Archiloque :
+1059:Arcésilas :
+1060:Ariane :
+1061:Aristide Maillol|Maillol:
+1062:Aristogiton :
+1063:Arnold Böcklin|Boecklin:
+1064:Arrien :
+1065:Arthur Schopenhauer|Schopenhauer:
+1066:Arthur Waley :
+1067:Asclépios :
+1068:Assia Djebar :
+1069:Athanase :
+1070:Athéna|Athena:
+1071:Atthis :
+1072:Attila :
+1073:Attis|Attys|Attys:
+1074:Auguste Rodin|Rodin:
+1075:Augustin Thierry :
+1076:Autolycos :
+1077:Axel :
+1078:Bacchante :
+1079:Barbe :
+1080:Barnabooth :
+1081:Baron de Charlus|Charlus:
+1082:Bartholommé Campanus :
+1083:Bartholomé Campanus :
+1084:Bartolomé de Las Casas|Casas|Casas:
+1085:Bashô :
+1086:Belotti :
+1087:Bergotte :
+1088:Berthe :
+1089:Bob Dylan :
+1090:Boddhisattva :
+1091:Borgia :
+1092:Bouddha :
+1093:Bourdaloue :
+1094:Brigitte Bardot :
+1095:Bronislaw Malinowski :
+1096:Brutus :
+1097:Bède le Vénérable|Vénérable:
+1098:Bélise :
+1099:Cakia Mouni|Mouni:
+1100:Calvin :
+1101:Candide :
+1102:Caracalla :
+1103:Carin :
+1104:Carl Gustav Jung|Jung:
+1105:Carlo Stevo|De Carlo Stevo|Stevo:
+1106:Caron :
+1107:Cassandre :
+1108:Catherine Bohier :
+1109:Catherine Setters :
+1110:Catherine de Gênes :
+1111:Catherine de Médicis :
+1112:Champlain :
+1113:Charlebois :
+1114:Charles Despiau|Despiau:
+1115:Charles Dullin |Dullin:
+1116:Charles IX :
+1117:Charles Nissar :
+1118:Charles Orengo|Orengo:
+1119:Charles Quint :
+1120:Charles Swann|Swann de Proust:
+1121:Charles Vandsnhove :
+1122:Charles de Gaulle|Gaulle:
+1123:Charles de Montalembert|Montalembert:
+1124:Charles-Michel :
+1125:Charmide :
+1126:Charybde :
+1127:Christ Pancrator :
+1128:Christine de Rivoyre|Mme Christine de Rivoyre:
+1129:Christophe Colomb :
+1130:Chrysale :
+1131:Claire Fourment|Anversoise Claire Fourment:
+1132:Claude Julien :
+1133:Clodia :
+1134:Clytemnestre :
+1135:Clément Roux :
+1136:Cléodice :
+1137:Cléopâtre :
+1138:Colas Gheel :
+1139:Comte d'Egmont|Egmont:
+1140:Comte de Hornes|Hornes:
+1141:Comtesse de Monteriender|Monteriender:
+1142:Confucius :
+1143:Conrad :
+1144:Conrad de Reval :
+1145:Constantin Dimaras|C. Dimaras:
+1146:Constantin Dimaras :
+1147:Copernic :
+1148:Cordeliers :
+1149:Corinne|Tanagréenne Corinne:
+1150:Cyprien :
+1151:Cécile Wajsbrot|Wajsbrot:
+1152:Célestin V :
+1153:Cérès :
+1154:César|César de Thornton Wilder:
+1155:César de Vendôme :
+1156:Dali :
+1157:Damascius :
+1158:Damoclès :
+1159:Daniel Leuwers :
+1160:Darius III :
+1161:Darryl Pinckney :
+1162:David :
+1163:Daïphante :
+1164:De Gaulle :
+1165:Diane Dufresne :
+1166:Diane de Poitiers|Diane de Chenonceaux:
+1167:Dida :
+1168:Diehl :
+1169:Diels :
+1170:Dieu :
+1171:Diogène :
+1172:Dionysos :
+1173:Diotime de Milet|De Diotime de Milet:
+1174:Docteur Sarte|Sarte:
+1175:Dominique Gros :
+1176:Domitien :
+1177:Don Almare :
+1178:Don Alvare :
+1179:Don Miguel :
+1180:Duc d’Albe :
+1181:Duce:
+1182:Dumont d' Urville :
+1183:Dupin de Francueil :
+1184:Dédale :
+1185:Déméter :
+1186:Dürer|Durer:
+1187:Dürer :
+1188:Edith Thomas|Mme Edith Thomas:
+1189:Edmond Fleg :
+1190:Edouard Boubat|Boubat:
+1191:Egides :
+1192:Egon :
+1193:Eiffel :
+1194:Elagabale :
+1195:Elisabeth de Hongrie :
+1196:Elstir :
+1197:Elytis :
+1198:Emmanuel d' Olinsauve :
+1199:Emmanuel de Grouchy|Grouchy:
+1200:Empédocle :
+1201:Erasme :
+1202:Eric Von Lhomond :
+1203:Eric von Lhomond|Lhomond|Eric:
+1204:Eugène Fromentin :
+1205:Eunomaos|Oenomaos:
+1206:Eurydice :
+1207:Everett Austin :
+1208:Fabrice :
+1209:Fallières :
+1210:Fan-Chiang :
+1211:Father Divine :
+1212:Faustine :
+1213:Federico Fellini|Fellini:
+1214:Fernande :
+1215:Fernande B :
+1216:Fernande de Cartier de Marchienne:
+1217:Florence Delay :
+1218:Francis Jeanson :
+1219:Francis Poulenc :
+1220:Franciso de Goya|Goya:
+1221:François Adriansen :
+1222:François Ier :
+1223:François Mitterrand :
+1224:François d' Assise :
+1225:Fraulein :
+1226:Frédéric II :
+1227:Fulcanelli :
+1228:Félix Krull :
+1229:Gabrielle d' Estrées :
+1230:Galilée :
+1231:Gandhi :
+1232:Gaston Bachelard :
+1233:Gaston Boissier :
+1234:Gaston Gallimard :
+1235:George Henry Boughton|Boughton:
+1236:George Neveux|Neveux:
+1237:George Stubbs:
+1238:Georges Devereux:
+1239:Georges Dumézil:
+1240:Georges Jacquemin :
+1241:Georges Pompidou|Pompidou:
+1242:Georges Rouault|Rouault:
+1243:Georges de Crayencour :
+1244:Gilles Vignault :
+1245:Giordano Bruno :
+1246:Giovanna :
+1247:Gisèle Freund :
+1248:Giulio Lovisi :
+1249:Giulo :
+1250:Gluck :
+1251:Grace Frick|Miss Frick:
+1252:Grace Frick :
+1253:Grand Turc :
+1254:Greete :
+1255:Grigori Loew|Loew:
+1256:Grigori Loew :
+1257:Grisalda :
+1258:Guillaume le Conquérant|Guillaume:
+1259:Hadrien|Hadrien de Mme Yourcenar|Empereur Hadrien|Adrien:
+1260:Harmodius :
+1261:Heinrich Schliemann|Schliemann:
+1262:Helmut von den Steinen|Helmut:
+1263:Henri III :
+1264:Henri de Toulouse-Lautrec|Toulouse-Lautrec:
+1265:Henri-Maximilien|Henri-Max:
+1266:Henri-Maximilien Ligre|Henri Maximilien Ligre|Henri-Maximillen|Henri Maximilien|Henri-Maximilien:
+1267:Hercule|Héraklès:
+1268:Hermione :
+1269:Hildezonde :
+1270:Hilzonde :
+1271:Hippolyte :
+1272:Hirsch :
+1273:Hiéron :
+1274:Honda :
+1275:Horace Walpole :
+1276:Howard Johnson :
+1277:Händel :
+1278:Hécube :
+1279:Héliogabale :
+1280:Hélène Carrère d' Encausse :
+1281:Hélène Fourment :
+1282:Hénault:
+1283:Héphaistos|Héphaïstos:
+1284:Héphestion :
+1285:Héra :
+1286:Hérodias :
+1287:Icare :
+1288:Idelette :
+1289:Ingmar Bergman :
+1290:Isabelle Brandt :
+1291:Isolde :
+1292:Ivan Morris :
+1293:Ixion :
+1294:J.-P. de Crayencour :
+1295:Jacob van Ruysdael|Ruysdael:
+1296:Jacqueline de Romilly :
+1297:Jacques Brel :
+1298:Jacques Callot|Callot:
+1299:Jacques Donnay :
+1300:Jacques Maritain|Maritain:
+1301:Jacques Monod :
+1302:Jan van Eyck|Van Eyck:
+1303:Jan van Ruysbroeck|Ruysbroeck:
+1304:Jany Holt :
+1305:Jean C. Lallemand :
+1306:Jean Cleenewerck :
+1307:Jean Dubuffet :
+1308:Jean Ferrat :
+1309:Jean Fréron :
+1310:Jean Gillibert :
+1311:Jean Hoyoux :
+1312:Jean Jaurès|Jaurès:
+1313:Jean Marchat :
+1314:Jean Schlumberger :
+1315:Jean Valjean :
+1316:Jean Vilar|Vilar:
+1317:Jean XXIII :
+1318:Jean de Leyde|Jean de Leyde‧l|Hans Bockhold|Jean de Levde|Jean de Ley:
+1319:Jean-Louis de Berlaimont :
+1320:Jean-Paul Vaguet :
+1321:Jean-Sébastien Bach|Bach:
+1322:Jeanne d' Arc :
+1323:Jeanne de Reval :
+1324:Jeanne de Réval :
+1325:Jeanne de Vietinghoff :
+1326:Jerry Wilson|Wilson:
+1327:Jerry Wilson :
+1328:Jocaste :
+1329:Johannes Vermeer|Vermeer:
+1330:John Huston :
+1331:Joseph Boutrin :
+1332:Joseph Haydn|Haydn:
+1333:Joseph Kalayoff|Kayaloff:
+1334:Jules Boutrin :
+1335:Jules César :
+1336:Jules Ferry :
+1337:Jules II :
+1338:Jules Lemaître :
+1339:Julien Sorel :
+1340:Julius Evola|J. Evola:
+1341:Jupiter :
+1342:Justinien :
+1343:Jérôme Bosch|Hieronymus Bosch|Bosch:
+1344:Jérôme Carcopino :
+1345:Jérôme Cardan|Cardan:
+1346:Jérôme Cardan :
+1347:Jésus|Fils de‧l' Homme|Fils du Ciel:
+1348:Jésus de Nazareth :
+1349:Jésus-Christ|Christ:
+1350:Jésus-Christ :
+1351:Kiyoaki :
+1352:Koan Zen :
+1353:Kostis :
+1354:Krishna :
+1355:Lafcadio :
+1356:Lambert Lombart :
+1357:Lazare :
+1358:Lazareff :
+1359:Legrandin|Legrandin de Méséglise:
+1360:Leonard :
+1361:Lesbie :
+1362:Liane :
+1363:Lina Chiari|Lisa Chiari:
+1364:Lina Chiari :
+1365:Ling :
+1366:Lisa Chiari|Lisa:
+1367:Livia Chiari|De Livia Chiari:
+1368:Louis II :
+1369:Louis Jouvet|Jouvet:
+1370:Louis Pasteur|Pasteur:
+1371:Louis XIII :
+1372:Louis XIV :
+1373:Louis XVI :
+1374:Louis XVIII :
+1375:Louis-Napoléon Bonaparte|Napoléon:
+1376:Louise de Borchgrave :
+1377:Louise de Lorraine :
+1378:Louise de Savoie :
+1379:Lovisi :
+1380:Lubin Baugin|Baujuin:
+1381:Lucas Cranach|Cranach:
+1382:Lucien de Rubempré|Rubempré de Balzac:
+1383:Lucienne Bogaert|Lucienne Bogqaert:
+1384:Lucius Mamilius Turrinus :
+1385:Ludwig van Beethoven|Beethoven:
+1386:Lully :
+1387:Luther :
+1388:Léna :
+1389:Lénine :
+1390:Léo Belmonte :
+1391:Léon Blum :
+1392:Léon Daudet|M. Léon Dandet:
+1393:Léon d'Hervey de Saint-Denis|Hervey de Saint-Denis:
+1394:Léonard de Vinci :
+1395:M. Arthur :
+1396:M. Colaclidis :
+1397:M. Jacques Nels :
+1398:M. Jean Vinci :
+1399:M. Michel :
+1400:M. Vittoz :
+1401:M. de Crayencour :
+1402:M. de Marsantes :
+1403:M. de Noirpois|Norpois:
+1404:Madame Bovary:
+1405:Madame Mishima :
+1406:Madame Récamier|Récamier:
+1407:Madame Verdurin :
+1408:Madame de Villeparisis :
+1409:Madeleine :
+1410:Mademoiselle Robine :
+1411:Mademoiselle de Saint-Loup :
+1412:Mahatma Gandhi :
+1413:Malte Laurids Brigge :
+1414:Man Ray :
+1415:Marc Antoine :
+1416:Marc-Antoine :
+1417:Marc-Aurèle|Marc:
+1418:Marc-Aurèle :
+1419:Marcel|Marcel de Proust:
+1420:Marcel Achard :
+1421:Marcella :
+1422:Marcella Ardeati :
+1423:Marcella Ardéati :
+1424:Marco Polo :
+1425:Marguerite d' Autriche :
+1426:Marguerite de Bernast :
+1427:Marie Canavaggia :
+1428:Marie Guilmineau|Marié Guilmineau:
+1429:Marie Guilmineau :
+1430:Marie Joye :
+1431:Marie Stuart :
+1432:Marie-Madeleine :
+1433:Marinunzi :
+1434:Marko Kralievitch :
+1435:Marko Kraliévitch :
+1436:Marquis de Cadillac|Cadillac:
+1437:Marquise de Villeparisis :
+1438:Mars:
+1439:Marshall Mc Luhan|Mc Luhan:
+1440:Martha :
+1441:Martin Cleenewerck :
+1442:Martin Fugger|Martin Fugger de Cologne:
+1443:Martin Luther King :
+1444:Mary Munro-Hill :
+1445:Massillon :
+1446:Massimo :
+1447:Mathilde :
+1448:Maud :
+1449:Maurice Utrillo|Utrillo:
+1450:Max Ernst|Ernst:
+1451:Max Ernst :
+1452:Maître Eckart :
+1453:McCarthy :
+1454:Menling :
+1455:Michel Charles :
+1456:Michel Daniel :
+1457:Michel Droit :
+1458:Michel Servet|Servet:
+1459:Michel Servet :
+1460:Michel Vitold|Vitold:
+1461:Michel de Crayencour|M. Michel de Crayencour:
+1462:Michel-Ange :
+1463:Michel-Charles :
+1464:Michel-Daniel de Crayencour :
+1465:Michel-Donatien de Crayencour|Michel-Donatien:
+1466:Michel-Donatien de Crayencour :
+1467:Michel-Joseph :
+1468:Miguel :
+1469:Minerve :
+1470:Minos :
+1471:Mithra :
+1472:Mitterrand :
+1473:Mlle Judith Magre :
+1474:Mme Brown-Hovelt|Brown-Hovelt:
+1475:Mme Dupin :
+1476:Mme Gandhi :
+1477:Mme Irénée :
+1478:Mme Mallarmé :
+1479:Mme Marion Delbo :
+1480:Mme Mathilde :
+1481:Mme Swann :
+1482:Mme Valéry Giscard d' Estaing :
+1483:Mme d' Olinsauve :
+1484:Mme de Duras :
+1485:Mme de Maintenon :
+1486:Mommsen :
+1487:Monique :
+1488:Monseigneur Dupanloup :
+1489:Monsieur Teste|Monsieur Teste:
+1490:Monsieur de Marsantes:
+1491:Monteverdi :
+1492:Morita :
+1493:Mozart :
+1494:Moïse :
+1495:Mussolini :
+1496:Mégaclée :
+1497:Mélisande :
+1498:Ménalque :
+1499:Napoléon Bonaparte|Bonaparte:
+1500:Narcisse :
+1501:Natacha :
+1502:Natalie Barney :
+1503:Nathalie Barney :
+1504:Nathanaël|Natanaël:
+1505:Nathanaël :
+1506:Neptune :
+1507:Neville :
+1508:Nicolas Cleenewerck :
+1509:Nicolas Flamel :
+1510:Nicolas Poussin|Poussin:
+1511:Nino Frank :
+1512:Nosferatu:
+1513:Nostradamus :
+1514:Noémi|Noémie:
+1515:Noémi Dufresne|Dufresne:
+1516:Noémi Dufresne :
+1517:Néron :
+1518:Octave Pirmez|Octave Pirmes:
+1519:Octave Pirmez :
+1520:Odette de Crécy :
+1521:Oppien :
+1522:Oreste|Oresté:
+1523:Oreste :
+1524:Oreste Marinunzi :
+1525:Oriane :
+1526:Ortelius :
+1527:Osiris:
+1528:Pacha de Scutari|Scutari:
+1529:Paolo Farina|Paolo:
+1530:Paolo Farina :
+1531:Paracelse :
+1532:Patrocle :
+1533:Paul Gilson :
+1534:Paul Klee|Klee:
+1535:Perses :
+1536:Perséphone:
+1537:Phidias :
+1538:Philippe II :
+1539:Philippe Tesson :
+1540:Phlégon :
+1541:Phèdre :
+1542:Phébus :
+1543:Phédon|Phédon de Feux:
+1544:Pia Tolomei|Pia:
+1545:Pia Tolomei :
+1546:Pierre Bayle|Bayle:
+1547:Pierre Bieswal :
+1548:Pierre Klossowski :
+1549:Pierre Paul Rubens|Rubens:
+1550:Pierre Vidal-Naquet :
+1551:Pierre-Paul Royer-Collard|Royer-Collard:
+1552:Pieter Brueghels :
+1553:Piranèse|Piranesi:
+1554:Plotine :
+1555:Pol Vandromme :
+1556:Pompéia :
+1557:Poséidon:
+1558:Praxitèle:
+1559:Priam :
+1560:Prieur :
+1561:Prince de Condé|Condé:
+1562:Princesse Palatine :
+1563:Princesse de Guermantes :
+1564:Prométhée :
+1565:Ptolémée :
+1566:Pylade :
+1567:Pâris :
+1568:Pélée :
+1569:Périclès :
+1570:Pétain :
+1571:RUDOLPH VALENTINO :
+1572:Rachel :
+1573:Raymond Barre :
+1574:Rembrandt|Rembrant:
+1575:Rembrandt :
+1576:Rhoda :
+1577:Robert Lèves :
+1578:Robert Wilson :
+1579:Robert de Saint-Loup|Saint-Loup:
+1580:Rockefeller :
+1581:Roger Straus :
+1582:Roosevelt :
+1583:Rosalia :
+1584:Rosalia Di Credo :
+1585:Rosalie :
+1586:Rothschild :
+1587:Rudolph Valentino :
+1588:Ruth Benedict :
+1589:Rémo :
+1590:Rônins :
+1591:Saint Augustin :
+1592:Saint Georges :
+1593:Saint Jean-Baptiste|Jean-Baptiste:
+1594:Saint Louis :
+1595:Saint Zénon :
+1596:Saint-Augustin|Augustin:
+1597:Saint-Grégoire|Grégoire:
+1598:Saint-Louis :
+1599:Saint-Michel :
+1600:Saint-Nicolas :
+1601:Saint-Pierre :
+1602:Sainte Thérèse d' Avila :
+1603:Sainte-Catherine :
+1604:Sainte-Lucie :
+1605:Sainte-Sophie :
+1606:Sainte-Véronique|Véronique:
+1607:Salomon :
+1608:Salomé :
+1609:Sami :
+1610:Samuel de Champlain :
+1611:Sara :
+1612:Sarah Bernhardt|Madame Sarah Bernhardt:
+1613:Saraï :
+1614:Satoko :
+1615:Scapin :
+1616:Schmucke :
+1617:Scylla :
+1618:Seigneur d'Acoz|Acoz:
+1619:Septime Sévère :
+1620:Septimus :
+1621:Servianus :
+1622:Shiragi Jun :
+1623:Sibylle :
+1624:Siegmund Freud|M. Siegmund Freud:
+1625:Sigismond :
+1626:Simon Adriansen :
+1627:Simone Veil :
+1628:Sire Laurent :
+1629:Sophie de Reval :
+1630:Spartien :
+1631:Stanislas :
+1632:Stanislas Langelier :
+1633:Stefan Bathory :
+1634:Stésichore :
+1635:Sultan :
+1636:Sébastien Theus :
+1637:Thamar :
+1638:Thane du Northumberland :
+1639:Theophilus Homodei :
+1640:Thierry Maulnier :
+1641:Thomas Sommery|Thomas Sommery de Bésus:
+1642:Thorvaldsen :
+1643:Thrasybule d' Agrigente :
+1644:Théodore :
+1645:Théoxène :
+1646:Théramène :
+1647:Thérapion :
+1648:Théron :
+1649:Thérèse :
+1650:Thétis :
+1651:Tibère :
+1652:Titien :
+1653:Tommaso campanella|Campanella:
+1654:Toulouse-Lautrec :
+1655:Toutankhàmon :
+1656:Toynbee :
+1657:Trajan :
+1658:Tristan :
+1659:Tullio Pericoli :
+1660:Turner :
+1661:Tycho Brahé :
+1662:Ulysse :
+1663:Valentine :
+1664:Valentine Tessier :
+1665:Valéry Giscard d'Estaing|Giscard d' Estaing:
+1666:Vautrin :
+1667:Victor Bérard :
+1668:Vierge :
+1669:Vincent Van Gogh|Vincent|Gogh:
+1670:Vinteuil :
+1671:Volker Schlondorff :
+1672:Vénus :
+1673:Völker Schlöndorff|Volker Schlöndorff:
+1674:Wagner :
+1675:Wallenstein :
+1676:Walter Kaiser :
+1677:Wang-Fô|Wang Fo|Wang Fô:
+1678:Wang-fô :
+1679:William Harvey|Harvey:
+1680:Winslow Homer :
+1681:Wiwine :
+1682:Xénocrate :
+1683:Yannick Guillou|Guillloux:
+1684:Yseut :
+1685:Yvan Leclerc :
+1686:Yves Gasc :
+1687:Yves Saint Laurent :
+1688:Yves Saint-Laurent|Saint-Laurent:
+1689:Zeus:
+1690:Zoé :
+1691:Zénon|Zenon|Zénon de‧L' Oeuvre:
+1692:Zénon d' Elée:
+1693:comte Molé|Molé:
+1694:le Narrateur|Narrateur:
+1695:le Tintoret|Tintoret:
+1696:Égisthe|Egisthe:
+1697:Étienne Dolet|E. Dolet:

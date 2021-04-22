@@ -1,0 +1,3 @@
+Maison Descartes de‧l' Institut Français d' Amsterdam Elle:('Corpus\\articles_presse_yourcenar.txt', 1734, 19)
+MARGUERITE YOURCENAR REGARDE AVEC UNE INDIFFERENCE AMUSEE:('Corpus\\articles_presse_yourcenar.txt', 2143, 6)
+QUI VA ETRE REGULIEREMENT REIMPRIMEE PAR GALLIMARD EN:('Corpus\\articles_presse_yourcenar.txt', 1247, 13)
