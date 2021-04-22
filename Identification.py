@@ -239,7 +239,7 @@ def initCorpus(fileList,log):
 #recupere le contenu des dictionnaires(sous forme de fichier) pour les stocker dans un tableau(un dictionnaire serait probablement mieux)
 def initDicos(dicoNames,dicoFiles,communsFile,noiseFile):
     if(not len(dicoNames)==len(dicoFiles)):
-        raise ConfigError("Different number of files and names for dictionnaries")
+        raise Exception("Different number of files and names for dictionnaries")
     dicos={}
     for i in range(len(dicoNames)):
         dicos[dicoNames[i]]= loadRef(dicoFiles[i])
@@ -375,7 +375,7 @@ if __name__=="__main__":
     dicoNames=["LIEUX","AUTHORS","OEUVRES","PERSONNAGES","INSTITUTIONS","CRITIQUES"]
     communsFile="testCommun.txt"
     noiseFile="testNoise.txt"
-    corpus,logf=initCorpus(["test1.txt","articles_presse_yourcenar.txt"],"out.log")
+    corpus,logf=initCorpus(["articles_presse_yourcenar.txt"],"out.log")
     dicos,communs,noise=initDicos(dicoNames,dicoFiles,communsFile,noiseFile) #les variables sont inutiles pour l'instant vu qu'on ne teste plus rien sur la presence des mots dans un dico.
     np=identify(corpus,communs,logf)
     generateToSort(np,"toSort2.txt")
