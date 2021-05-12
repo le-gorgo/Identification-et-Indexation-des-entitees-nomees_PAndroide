@@ -248,7 +248,7 @@ def traiterCreator(line):
 def initCorpus(fileList,log):
     f=[]
     for file in fileList:
-        if(".docx" not in file):
+        if(".docx" not in file[-5:-1]):
             t=codecs.open(file, "r", "utf-8", "replace")
             f.append(t.read())
             t.close()
@@ -287,9 +287,8 @@ def initDicos(dicoNames,dicoFiles,communsFile,noiseFile):
 def identify(corpus,exc,logf,occurences):
     np=dict()
     for (fileName,text) in corpus.items():
-        lines = text.split('\r')
+        lines = text.splitlines()
         i = 0
-
         for i in range(len(lines)):#line in lines:
 
             mots = lines[i].split()

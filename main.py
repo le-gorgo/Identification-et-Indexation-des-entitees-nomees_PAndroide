@@ -2,6 +2,7 @@ import filter3 as filter
 import Identification as id
 import configparser
 import os
+import sys
 # ce fichier contient le programme principal qui le processus d'identification puis de filtrage.
 def readConfig(fileName):
     config=configparser.ConfigParser()
@@ -30,8 +31,10 @@ def readConfig(fileName):
 if __name__=="__main__":
 
     #pour l'intant les fichiers sont mis directement dans le code, il faudra faire un fonction qui lit un fichier config
-    corpusFiles,dicoFiles,dicoNames,communsFile,noiseFile=readConfig("config.txt")
-
+    if(len(sys.argv)>=2):
+        corpusFiles,dicoFiles,dicoNames,communsFile,noiseFile=readConfig(sys.argv[1])
+    else:
+        corpusFiles,dicoFiles,dicoNames,communsFile,noiseFile=readConfig("config.txt")
     corpus,logf=id.initCorpus(corpusFiles,"out.log")#creation d'une variable corpus qui contient tous les textes des fichiers mis en parametre
     dicos,communs,noise,occurences=id.initDicos(dicoNames,dicoFiles,communsFile,noiseFile) #les variables sont inutiles pour l'instant vu qu'on ne teste plus rien sur la presence des mots dans un dico.
     np=id.identify(corpus,communs,logf,occurences)#c'est la fonction qui reconnais les mots qui peuvent etre des nom propres dans le corpus
