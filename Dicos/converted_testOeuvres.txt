@@ -1,0 +1,211 @@
+1000:Unamateur d'âmes|Amateur d' Ames:
+1001:Utopie|Utopie de Thomas More:
+1002:Valérie|Valérie de Mme de Krüdener:
+1003:Vie et opinions de Tristram Shandy|Tristram Shandy de Sterne:
+1004:Virage à 80|Virage:
+1005:Vous, Marguerite Yourcenar. La passion et ses masques|Marguerite Yourcenar de Michèle Sarde:
+1006:Voyage au phare|Voyage:
+1007:Voyage de Thésée|Voyage de Thésée de Georges Neveux:
+1008:Voyage du jeune Anacharsis en Grèce|Jeune Anacharsis:
+1009:What Maisie knew|What Maisy:
+1010:Wuthering Height:
+1011:Églogues|Eglogue de Virgile:
+1012:Électre|Electre d' Euripide:
+1013:Électre ou la chute des masques|Electre:
+1014:Élégies de Buckow|Elégies de Buckow:
+1015:Évangiles|Evangiles:
+805:Adieu Gary Cooper :
+806:Adolphe :
+807:Agamemnon|Agamemnon d' Eschyle:
+808:Alceste|Alteste:
+809:Alexis ou le traité du vain combat|Alexis de Mme Yourcenar|Traité du Vain Combat|Traité:
+810:Anabase :
+811:Anna Karénine :
+812:Anna soror|Soror:
+813:Antichita romane|Antichita:
+814:Antigone|Antigone d' Anouilh:
+815:Apistia|Apistia de Cavafy:
+816:Archives du Nord|ARCHIVES DU NORD de Marguerite Yourcenar|Archives du Nord37|Archives du Nord47|A.N:
+817:Bacchus|Bacchus de Vinci:
+818:Bajazet|Bajazet:
+819:Ballade de Sacramento Slim :
+820:Bardo Thödol :
+821:Belle du Seigneur :
+822:Blancador l'avantageux|Blancador:
+823:Blues et Gospels|Gospels:
+824:Blues et gospels|Blues:
+825:Bruges-la-Morte|Bruges-la-morte:
+826:Bérénice :
+827:Carnet de notes de Mémoires d'Hadrien|C.M.H:
+828:Carnets|Cahiers de Léonard:
+829:Carnets de notes de Mémoires d'Hadrien|Carnets de Notes|Carnets de Notes:
+830:Ce que Maisy savait|Maisy:
+831:Cinq nô modernes|Cinq:
+832:Combats avec tes défenseurs|Combats:
+833:Confessions|Confessions de Rousseau:
+834:Conte du Genji|Genji Monogatari:
+835:Correspondance|Correspondance de Liévin:
+836:Cortège d' Ombres :
+837:Corydon :
+838:D'après Greco|Greco:
+839:Denier du Rêve|DENIER DU REVE de Marguerite Yourcenar|DENIER DU RÊVE de Marguerite YOURCENAR:
+840:Denier du rêve|Denier du Rêve de Mme Yourcenar|Dernier du Rêve:
+841:Dessins (Goya)|Dessins:
+842:Deux nègres|Deux Nègres de Rembrandt:
+843:Diagnostic de l'Europe|Diagnostique de‧l' Europe:
+844:Diagnostic de‧l' Europe :
+845:Désert|Désert de J.-M.G:
+846:El Verduyo :
+847:Electre ou la chute des masques|Chute:
+848:En pèlerin et en étranger|Pèlerin:
+849:Enéide :
+850:Feux :
+851:Fleuve profond, sombre rivière|Fleuve Profond:
+852:Fragments :
+853:Gita-Govinda :
+854:Gîta-Govinda :
+855:Hamlet|Hamlet:
+856:Idylles|Idylles de Théocrite:
+857:Illiade|Iliade:
+858:Illuminations|Illuminations de Rimbaud:
+859:Innsbrück|Innsbruck:
+860:Inédits|Inédits de Cavafy:
+861:Joseph et ses frères|Joseph de Thomas Mann:
+862:Journal de César :
+863:Karamazov :
+864:Kâli décapitée|Kâli:
+865:L'Affaire Mauritzius|Affaire Mauritzius:
+866:L'Ardoise et la craie|Craie:
+867:L'Atelier de Marie-Claire|Atelier de Marie-Claire:
+868:L'Ecclésiaste|Ecclésiaste:
+869:L'Heptaméron|Heptaméron:
+870:L'Histoire Auguste|Histoire Auguste|Histoire-Auguste:
+871:L'Immoraliste|Immoraliste:
+872:L'Oracle de Delphes|Oracle de Delphes:
+873:L'Orestie|Orestie:
+874:L'île des dragons|Dragon:
+875:La Belle-Hélène|Belle Hélène:
+876:La Canne de jaspe|Canne de Jaspe:
+877:La Chanson de Roland|Chanson de Roland:
+878:La Chartreuse de Parme|Chartreuse de Parme:
+879:La Couronne et la lyre|Couronne|Lyre:
+880:La Dame de Pique|Lu Dame de Pique:
+881:La Double méprise|Double Méprise:
+882:La Flûte enchantée|Flûte:
+883:La Gloire de Ramire|Gloire de Ramire:
+884:La Maison de Kyoko|Maison de Kyo:
+885:La Mauvaise fréquentation|Mauvaise Fréquentation:
+886:La Mer de la fertilité|Mer de‧la Fertilité:
+887:La Mort conduit l'attelage|Attelage:
+888:La Nouvelle Euridice|Nouvelle Euridice|Nouvelle Eurydice|Nouvelle Euridyce:
+889:La Petite Marchande d'allumettes|Petite Marchande:
+890:La Petite Sirène|Petite Sirène:
+891:La Princesse de Clèves|Princesse de Clèves:
+892:La Promenade au phare:
+893:La Recherche du temps perdu|Recherche:
+894:La Sonate à Kreutzer|Kreutzer:
+895:La Sympahonie héroïque|Symphonie:
+896:La Tentation de Saint-Antoine|Tentation de Saint-Antoine:
+897:La Victoire de Samothrace|Victoire de Samothrace:
+898:La Vie d'Euripide|Vie d' Euripide:
+899:La Vie de Rancé|Vie de Rancé:
+900:La Voix des choses|LA VOIX DES CHOSES:
+901:La chambre de Jacob|Chambre de Jacob:
+902:La tentative amoureuse ou le traité du vain désir|Traité du Vain Désir|Maison Descartes de‧l' Institut Français d' Amsterdam:;('Corpus\\articles_presse_yourcenar.txt', 1734, 18)
+903:Le Bateau ivre|Bateau:
+904:Le Cavalier polonais|Cavalier:
+905:Le Coup de grâce|Coup de Grâce:
+906:Le Cousin Pons|Cousin Pons:
+907:Le Dernier amour du prince Genghi|Dernier Amour du Prince Genghi:
+908:Le Diable amoureux|Diable Amoureux:
+909:Le Dialogue dans le marécage|Dialogue:
+910:Le Docteur Faustus|Docteur Faustus:
+911:Le Labyrinthe du monde|Labyrinthe:
+912:Le Lys dans la Vallée|Vallée:
+913:Le Lys dans la vallée|Lys:
+914:Le Mendiant de Jérusalem|Mendiant de Jérusalem:
+915:Le Mystère d'Alceste|Mystère d' Alceste:
+916:Le Premier Soir|Premier Soir:
+917:Le Rideau cramoisi|Rideau:
+918:Le Roi au masque d'or|Masque d' Or:
+919:Le Temps ce grand sculpteur|Approches du Tantrisme|Noblesse de‧l' Echec|Sixtine:
+920:Le Tour de la prison|Voyages:
+921:Le Tournoi de Vauplassans|Tournoi de Vauplassans:
+922:Le colosse de Maroussi|Colosse de Maroussi:
+923:Lectures de Marguerite Yourcenar. Mémoires d'Hadrien|Lectures de Marguerite Yourcenar:
+924:Les Antiquités de Rome|Antiquités de Rome:
+925:Les Bucoliques|Eglogues de Virgile:
+926:Les Buddenbrook|Buddenbroke:
+927:Les Caves du Vatican|Caves du Vatican:
+928:Les Charités d'Alcippe|Charités d' Alcippe|Chantés d' Alcippe:
+929:Les Choéphores|Choéphores:
+930:Les Châtiments|Châtiments:
+931:Les Diaboliques|Diaboliques:
+932:Les Gens de la clairière|Gens de‧la Clairière:
+933:Les Histoires magiques|Histoires Magiques:
+934:Les Ides de Mars|Ides de Mars de Thornton Wilder|Ides de Mars:
+935:Les Mille et une nuits|Mille:
+936:Les Nourritures terrestres|Nourritures:
+937:Les Nouvelles Orientales|Veuve Aphrodéssia:
+938:Les Nouvelles orientales|Nouvelles Orientales|Sourire de Marko|Comment Wang-Fô:
+939:Les Oiseaux|Oiseaux d' Aristophane:
+940:Les Songes et les sorts|Songes:
+941:Les Tragiques|Tragiques d' Agrippa d' Aubigné:
+942:Les Troyens|Troyens de Cavafy:
+943:Les Vagues|Vagues de Virginia Woolf|LES VAGUES|Waves:
+944:Les Verts paturages|Verts Pâturages:
+945:Les Yeux ouverts|Yeux:
+946:Les prisons imaginaire|Prisons de Piranèse:
+947:Les sables rouges|Sables:
+948:Les songes et les sorts|Sorts:
+949:Louis Lambert :
+950:Maléfice :
+951:Manuel d'Épictète|Manuel de Marc-Aurèle:
+952:Marie-Claire|Mark-Claire:
+953:Moi Claude :
+954:Moi Claudio|Claudio:
+955:Mon Faust :
+956:Mrs Dalloway :
+957:Méditations poétiques|Méditations:
+958:Méduse et cie|Méduse:
+959:Mémoires|Mémoires d' Ambroise Paré:
+960:Mémoires d' Hadrien|Mémoires d' Hadrien de Marguerite Yourcenar|Mémoires d' Hadrien de Marguerite Yourcenar:
+961:Mémoires d'Hadrien|Aux Mémoires d' Hadrien:
+962:Mémoires d'outre-tombe|Outre Tombe:
+963:Negro Spirituals :
+964:Niels Lynhe :
+965:OEUVRE AU NOIR:
+966:Odyssée:
+967:Oncle Vania :
+968:Orlando :
+969:Pensées pour moi-même|Pensées de Marc Aurèle:
+970:Pindare|Biographie de Pindare:
+971:Prisons :
+972:Prolégomènes :
+973:Présentation Critique d' Hortense Flexner|Hortense Flexner de Mme Marguerite Yourcenar|PRÉSENTATION CRITIQUE D' HORTENSE FLEXNER:
+974:Présentation Critique de Constantin Cavafy :
+975:Psyché|Psyché du Musée de Naples:
+976:Pyrrhos et Pyrrha|Pyrrha:
+977:Qui n'a pas son Minautore ?|Minotaure:
+978:Quo vadis ?|Quo Vadis:
+979:Quoi ? L'éternité|Eternité:
+980:Recherche du Temps perdu:
+981:Rendre à César|Rendre:
+982:Rosario :
+983:Saint-Sébastien|Saint Sébastien de Guido Reni:
+984:Salammbô:
+985:Second Faust|Second Faust:
+986:Soleil vert|Soleil Vert:
+987:Sotoha Komachi|Nô Sotoha Komachi:
+988:Sous bénéfice d'inventaire|SOUS BÉNÉFICE D' INVENTAIRE|S.B.I:
+989:Souvenirs Pieux|Souvenirs:
+990:Souvenirs Pieux :
+991:Souvenirs pieux|S.P:
+992:Séraphîta|Seraphîta:
+993:Tannhaüser :
+994:The Seven who fled|Seven Who Fled:
+995:Thésée|Thésée d' André Gide:
+996:Théâtre I|THÉÂTRE I|THEATRE I:
+997:Théâtre II|THÉÂTRE II:
+998:Théâtre II :
+999:Télémaque :

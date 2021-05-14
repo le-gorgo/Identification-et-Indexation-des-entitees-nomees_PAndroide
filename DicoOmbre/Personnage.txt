@@ -1,0 +1,7 @@
+1:Lord Viserys Vance de Bel Accueil|Lord Vyseris Vance de Bel-Accueil|Ser Viserys Vance de Bel Accueil|Lord Aerys Vance de Bel-Accueil|Le Grand Argentier du Royaume:('CorpusOmbreTxt\\Alleras Tyrell (150).docx.txt', 624, 5);('CorpusOmbreTxt\\Alleras Tyrell (150).docx.txt', 624, 5);('CorpusOmbreTxt\\Alleras Tyrell (150).docx.txt', 655, 5);('CorpusOmbreTxt\\Lucas Blackwood.docx.txt', 250, 5);('CorpusOmbreTxt\\Alleras Tyrell (146).docx.txt', 412, 5);('CorpusOmbreTxt\\Addam Tarbeck.docx.txt', 412, 4);('CorpusOmbreTxt\\Beth Westerling.docx.txt', 471, 8);('CorpusOmbreTxt\\Lysa Tarbeck.docx.txt', 400, 8)
+2:Gouverneur de‧la Passe du Prince:('CorpusOmbreTxt\\Valena Qorgyle.docx.txt', 68, 8)
+3:Lord Aerys Vance de Bel Accueil:('CorpusOmbreTxt\\Addam Tarbeck.docx.txt', 172, 10);('CorpusOmbreTxt\\Alleras Tyrell (146).docx.txt', 415, 5);('CorpusOmbreTxt\\Maerie Tully.docx.txt', 384, 5)
+4:Pupille de Lord Bonnifer Graves:('CorpusOmbreTxt\\Alleras Tyrell (146).docx.txt', 15, 4);('CorpusOmbreTxt\\Alleras Tyrell (146).docx.txt', 15, 4);('CorpusOmbreTxt\\Alleras Tyrell (150).docx.txt', 14, 4);('CorpusOmbreTxt\\Alyn Vance.docx.txt', 13, 4)
+5:Dame Danae Vance de Bel Accueil:('CorpusOmbreTxt\\Maerie Tully.docx.txt', 391, 5)
+6:Ser Ronel Vance de Bel Accueil:('CorpusOmbreTxt\\Addam Tarbeck.docx.txt', 116, 8);('CorpusOmbreTxt\\Maerie Tully.docx.txt', 140, 7)
+7:Dame Loreleï Lannister Hamell:('CorpusOmbreTxt\\Flement Brax.docx.txt', 588, 3);('CorpusOmbreTxt\\Garlan Durwell.docx.txt', 530, 3);('CorpusOmbreTxt\\Joanna Durwell.docx.txt', 360, 3)

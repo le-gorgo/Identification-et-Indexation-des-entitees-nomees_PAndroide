@@ -1,0 +1,664 @@
+Récapitulatif actions de maison interjeu
+
+format :
+
+Maison
+
+Grands projets
+
+1 - Type du grand projet 1 : titre rapide
+
+Respo : reponsable (avec compétence utilisé si gd projet sup)
+
+Ressources : membres plein temps, présents, ressources matérielle et
+humaines.
+
+Objectif : reprise du texte de l’action
+
+Commentaire : reprise du texte de l’action
+
+Gestion (Par défaut/Qualitative/Précise)
+
+Investissements: ...
+
+Armées : ...
+
+Réseaux : ...
+
+Cours : ...
+
+Evènements : ...
+
+Prestige : ...
+
+Stabilité : ...
+
+Participation à d’autres grands projets (à reporter aussi dans le recap
+de la maison qui porte le projet)
+
+1 - Type du grand projet 1 : titre rapide avec Nom de la maison qui le
+porte
+
+Ressources : membres plein temps, présents, ressources matérielle et
+humaines.
+
+Objectif : reprise du texte de l’action
+
+Commentaire : reprise du texte de l’action
+
+Précisions personnelles
+
+Recap ressources
+
+Membres de la maisons
+
+Pika 1 : Gestion/Gd Projet
+
+Trésorerie
+
+Personnel
+
+Deddings
+
+Grands projets
+
+1 - Grand évènements : mariage Logan-Rohanne
+
+Respo : Malvina
+
+Ressources : tte famille présente, 500 do, hommes nécessaires à grande
+sécurité.
+
+Objectif : organiser le mariage du fils aîné, Logan, avec la jeune
+Lothsome.
+
+L'idée est d'avoir une très grande fête pour montrer notre arrivée dans
+la cour "des grands".
+
+Comment : organisation d'un tournoi et de divers festivités. Invitation
+des maisons nobles de la région, notamment, et surtout la maison Tully.
+Invite tous les nobles Tully, plus les maisons avoisinantes, notamment
+les Lyberr.
+
+Gestion Qualitative (et précise)
+
+Investissements: entretien route royale (qq do, selon besoin)
+
+Armées : entrainement pour former une troupe de vétérans. Logan + 200 do
+
+Réseaux : entretien réseau de contre espionnage. Malvina + 30 do
+
+  entretien réseau de contrebande. Nolwen +??
+
+Cours : Vivesaigues. Edern + 200 do. but : se placer à la cour Tully,
+mettre en valeur ses talents militaires dans le but de rejoindre l’état
+major.
+
+Evènements : (cf gd projets)
+
+Prestige : qq do dépensés en actions de charité.
+
+Stabilité : augmentation du nombre de milicien (qq dizaines de do).
+
+Recap ressources
+
+Membres de la maisons
+
+Malvina : Gd Evènement + Réseaux (contre espionnage) (conflit?)
+
+Nolwen : Réseaux (contrebande) + assiste mariage Logan-Rohanne
+
+Edern : Cour (vivesaigues) + assiste mariage Logan-Rohanne
+
+Logan: armées (entrainement) + assiste à son mariage + tournois Lyberr
+
+Trésorerie
+
+Personnel
+
+Lyberr
+
+Grands projets
+
+1 - Grand Evènements : Tournois (en l’honneur de?)
+
+Respo : Mestre Lucas
+
+Ressources : Mestre Lucas + 500 do + participation des autres.
+
+Objectif : augmenter renommée familiale et réputation de la foire +
+incident programmé avec Deddings ? (demander précision à LeMalin)
+
+(cf retours)
+
+Gestion qualitative
+
+Investissements: étude de cout pour construction d’un port fluvial dans
+le but de négotiations futures (Lucas et Jory en mineur)
+
+Armées : recrutement pour augmenter la taille de l’armée (but : arriver
+a 1100 do de maintenance environ). Ser Tybald
+
+Réseaux : commerce : invitation de Lynessos à installer un bordel sur la
+foire (mestre Lucas en mineur)
+
+Cours : Hautjardin. Sorya Stant+ max 300do. mission pour plaider la fin
+de la dette familiale et se faire des amis chez les Tyrell
+
+Evènements : enquête sur l’attaque sur les Deddings. Jory Sarwing, avec
+utilisation des réseaux. (-> stabilité ou réseau?)
+
+Prestige : ras (cf gd projet)
+
+Stabilité : ras
+
+Recap ressources
+
+Membres de la maisons
+
+Mestre Lucas : Tournois + Investissment/étude de cout (mineur) +
+Réseau/commerce - accueil bordel (mineur)
+
+Sorya Stant: cour de Hautjardin
+
+Jory Sarwung : Enquête attaque Deddings + (tournois?)
+
+Ser Tybald :Armées + tournois?
+
+Trésorerie
+
+Personnel
+
+Norridge
+
+Grands projets
+
+1 - Entreprise marchande : assainir les finances
+
+Respo : Stefford
+
+Ressources : Stefford + ??
+
+Objectif : assainir les finances et améliorer la stabilité financière.
+Rendre le tout plus fiable, moins risqué (sans forcément gagner plus).
+
+Commentaire : moyens envisagés : payer les dettes, investir, diversifier
+les sources de revenus, etc.
+
+2- Complot de Severn : campagne sur l’assassinat de Garlan
+
+Respo : Severn Norreyn (check Conspirateur à faire)
+
+cf texte action (dénigration des Dunnseern, rumeurs à tiroirs)
+
+Gestion (Par défaut/Qualitative/Précise)
+
+Investissements: Création avec Dunnseern de petite route commerciale
+entre Néra et route de l’or. Comptoir Norridge sur teres Dunnseern
+(route de l’or) et Dunnseern sur terres Norridge (Néra).
+
+Armées : compenser les pertes en recrutant chevaliers et hommes d’armes.
+Wenceslas.
+
+Réseaux : grosse vente d’arme aux Vyprens (???)
+
+Projet perso septa Ellena : investit argent de Beth pour developper
+réseau Septon/septa à Port Réal (et avoir des espions/infos).
+
+Cours : Stefford à Port Réal. Image de “bosseur pas trop corrompu”.
+renvoi d’ascenceur vers Tully.
+
+Evènements : Patrouille ostensibles organisé par Tyra et Wenceslas pour
+“trouver” assassins Doran et Garlan.
+
+Maxence intronisé comme chevalier et vassal. reçoit les anciennes terres
+Sherling possédées par les Norridge. adoubé par Meryn après le mariage
+
+Prestige : Mariage de Meryn à Marellya. financement 50/50 Dunnseern /
+Norridge
+
+Maxence chapeaute le recrutement de menestrels.
+
+Stabilité : ras.
+
+Recap ressources
+
+Membres de la maisons
+
+Severn : Gd Porjet perso
+
+Stefford : Gr Projet finances + Cour Gd Argentier (Conflit ?)
+
+Septa Ellana : réseau à port réal
+
+Tyra : organisation patrouille pour trouver assassins Doran/Garlan
+
+Wenceslas : Armée + participation patrouilles
+
+Meryn : mariage à Hautjardin
+
+Maxence : maraige + adoubement/intronisation
+
+Trésorerie
+
+Personnel
+
+Nightingale
+
+Grands projets
+
+1 - Complot : installation Bordels + réseau
+
+Respo : Kedwyn
+
+Ressources : Kedwyn, Lia, agents de Lynessos (dont Anders), 800 do de
+corruption et paiement, 20 hommes pour protection.
+
+Objectif : installer bordels+réseaux à Rougerives, et outlets chez les
+Corkwell et à la foire Lyberr. Chez Vypren : rendre implantation
+concurrent + difficile, prendre de l’influence dans la ville, placer une
+fille proche de la cour (pas Alaric, viser un autre membre de la
+famille) pour choper des infos en continu.
+
+Chez les autres: prise de ctc et premieres installations.
+
+Gestion (Par défaut/Qualitative/Précise)
+
+Investissements: 200 do à chacuns des respos de bordels de
+Boisdoré(Rowan), Montargent(Serret) et Valbrun(Turnberry)
+
+camp de chasse à renard et port entretenus/exploités
+
+Armées : maintien du niveau actuel
+
+Réseaux : +25do / bordel pour entretiene t developpement de réseau
+d’informateurs via putes
+
+Cours : (cf actiond e maison (???))
+
+Evènements : participent aux frais de mariage avec Maerie normalement.
+
+Prestige : ...
+
+Stabilité : ...
+
+Recap ressources
+
+Membres de la maisons
+
+Kedwyn : gd projet bordel
+
+Lia : gd projet bordel
+
+(Anders) : gd projet bordel
+
+Lynessos ??
+
+Eryn ???
+
+autres ??
+
+Trésorerie
+
+Personnel
+
+Dunnseern
+
+Grands projets
+
+1 - Ordonnance : prise de possession Graves / Pommingham
+
+Respo : Kyra
+
+Ressources : Kyra, Aeron dès qu’il peut, Camilea dès qu’elle peut (+
+ressources nécessaires humainement et financièrement - gros budget ok).
+
+Objectif : recensement, prise de possession, affirmation du pouvoir
+Dunnseern.
+
+Commentaire : renouvellement des serments de vassalité (refus -> mur),
+recensmeent de la population et de l‘état des greniers, passation de
+pouvoir + stabilisation + propagande
+
+Gestion (Par défaut/Qualitative/Précise)
+
+Investissements: Mercy Port de commerce Dunnseern sur Néra dans terres
+Norridge
+
+Wellys : création de vignes
+
+Armées : tente de recruter 200 troupes sup (le max) en fantassin.
+
+Réseaux : ...
+
+Cours : Camilea à Vivesaigues pour plaider cause Tyrosh (cf son action
+perso)
+
+Evènements : Aeron et Corwyn ont au secours des Lynn avec 50% de leur
+troupes (mais les archers restent). rdv sur les terres Ormes pour
+soutenir Lynn
+
+Prestige : Karyl fait des tournois pour Tyrell (courtois, honorable,
+mais veut briller) + voit Valena Qorgyle
+
+Marellya : mariage avec Meryn et influence cour
+
+Stabilité : cf gd projet
+
+Npote : questions de Karyl sur Valena Qorgyle à traiter (est-elle
+combattante et à quel point? quelle est la ligne de succession Qorgyle
+?)
+
+Participation à d’autres grands projets (à reporter aussi dans le recap
+de la maison qui porte le projet)
+
+1 - Campagne militaire Lynn vs Hautfort
+
+porté par les Lynn, Aeron et Corwyn y participent (cf gestion armées)
+
+Note : “s’il faut tuer, on tue. pas de chichis”, dixit Aeron
+
+Précisions personnelles
+
+Recap ressources
+
+Membres de la maisons
+
+TODO
+
+Trésorerie
+
+Personnel
+
+Vance
+
+Grands projets
+
+1 - Complot : mariage et assassinat d’Alyne Vypren
+
+Respo : Vyseris
+
+Ressources : Danae, Rhaenyra, Hyumphrey, ttes ressources militaire et
+surveillance.
+
+Objectif : assassiner Alyune après lui avoir fait un gosse.
+
+Commentaire : checker stérilité (si stérile; refus du mariage, scandale,
+dédommagement réclamé). Mariage des 7 à Bel accueil (finances : soft
+mais efficace). Invite les Tully, les seigneurs de l’alliance, Tyrell et
+Lancell Lannister. Maraige sous les anciens dieux à voir (plus de
+barral). puis essaye d’isoler Alyne : enfermée à double tour, garde
+doublée, filtrage des corbeaux, reste au chateau. Visite Alyne tous les
+soirs pour concevoir pour lui faire un enfant. si pas assez rapide,
+cherche un autre enfant pour le présenter comme successeur 9 mois après
+le mariage.
+
+Après l’accouchement, Alyne devra mourir (soit en couche, soit d’une
+maladie).
+
+2- Grand Travaux : restructureer les troupes => pas un gd projet,
+déplacé dans gestion armée
+
+Gestion (Par défaut/Qualitative/Précise)
+
+Investissements: optimisation de la route commerciale et de la foire.
+
+Rhaenyra fait de la planification saisonnière
+
+Armées : restructuration es toupes et des défenses du territoire suite à
+la lecture du jounrla d’Oros Reyne. 2000 do investis dans l’armée.
+Mobilise tous les homes restants. Humphfrey est en charge de cette
+refonte de l’armée.
+
+Réseaux : ...
+
+Cours : Soeurs à Port réal et à Vivesaigues choppeny des infos sur les
+candidats à Harrenhal
+
+Evènements : opération “raton laveur cornu” : infiltrer la cour vypren.
+prétexte :envoi d’hommes pour aider à l’enquête sur l’incendie du barral
+en signe d’amitié. essaie d’investir la cour locale et la paysannerie
+pour avoir des infos sur les plans Vypren.
+
+Prestige : ...
+
+Stabilité : ...
+
+Recap ressources
+
+Membres de la maisons
+
+Vyseris
+
+Rhaenyra
+
+Humphfrey
+
+Danae
+
+Vysenia
+
+Autre soeur
+
+Trésorerie
+
+Personnel
+
+Brax
+
+Grands projets
+
+1 - Grand travaux : assainissements du territoire
+
+Respo : Dracen Brax
+
+Ressources : Dracen, peut piocher dans les 2000 do empruntés selon
+besoins .
+
+Objectif : ne pllus avoir des “terres en mauvais état général’ conoldier
+la position pour avoir des bases saines pour le futur
+
+Commentaire : tournées des terres par Dracen, utilise un partie de
+l’argent emprunté au bvesoin. Les autres actions de gestions sont en
+soutien de ce projet. Dynamique d’amélioriationd es terres, paysans
+incités à venir, d’où plus de mains d’oeuvre pour les travaux et terres
+avec meilleur rendement => plus de recettes à l’avenir.
+
+Gestion Précise
+
+Investissements: baisse des impots et taxes payusannes pour une valeur
+de 50 do+gain des impots de Dernier Rempart (ie ne dépenser que 50 do de
+plus qu’avant pour cette mesure dans le but d’attirer des paysans)
+
+investir dans la mine de fer (300do)
+
+investier dans la route royale de Dernier Rempart (1000do)
+
+achter 150 do de blé
+
+payer un géologue pour chercher de nouvelles ressources (10do)
+
+Armées : recruter 200 hommes pour 380 do
+
+remetrte en état Dernier Rempart (??do)
+
+Réseaux : propagande officieuse sur les taxes par menestrels basd e
+gfammes (30 do pour une dizaine de menestrels) pour attirer les paysans
+
+echange commerciaux avec Nightingale, Dunnseern, Corkwell et Deddings
+(conclus oralement à la partie … ??? TO CHECK)
+
+Cours : Lannisport : Gestion Carmont par Dracen
+
+Evènements : mariage ser Alester avec Fowler si confirmé
+
+“Fête du retour” à Dernier Rempart (femme Drox, vieux septon, cérémeonie
+religieuse, plutot intimiste, pas d’invité hors Brax/Drox)
+
+Prestige : bardes envoyés chanter la dernière guerre en instant sur le
+fait que les Braxs ne commettent pas de pillages et gere honorablement
+la guerre (même bardes que pour les taxes, c’est leur mission
+officielle)
+
+Stabilité : Note: pas de détournement cette saison
+
+Recap ressources
+
+Membres de la maisons
+
+Pika 1 : Gestion/Gd Projet
+
+Trésorerie
+
+Personnel
+
+Orme
+
+Grands projets
+
+1 - Campagne militaire - en conjonction avec Lynn et Dunnseern
+
+Respo : Harwyn Orme
+
+Ressources : Harwyn, Alysanne, Daeris, William, Alaric, “Viltis”.
+
+1000do de mercenaires. 50% de l’armée.
+
+⅓ de la prod de vin + 150 do de bouffe (paysans de la passe)
+
+50 do de menestrels pour propagande (louange des Ormes, carnage réels et
+fictifs des Camront pdt la guerre contre les Dunnseern)
+
+Objectif : Prendre le fief proche de ses terres; Laisse Hautfort aux
+Lynns et ne prend que le fief frontaliers.
+
+Commentaire : Ne se livre pas aux pillage/viol/incdie de ville/ferme et
+empêche ses alliés de le faire sur le fief frontalier. sur le reste,
+laisse faire ses alliés.
+
+rdv avec Dunnseern. Alysanne utilise espionnage pour connaître sitaution
+Carmont et anticiper éventuels renforts.
+
+Daeris Cole se charge de la prise du fort frontalier et de le tenir
+ensuite
+
+William : logistique sur la bataille
+
+Alaric : au côté d’Haarwyn au combat, protection de l’état major.
+
+Viltis/William : engager les mercenaires
+
+(Note: lettres à Durwell - réponse appréciable).
+
+2- Entreprise marchande : menace sur Tyrosh
+
+Respo : Viltis
+
+Ressources : Viltis et Daeris. max 75 do
+
+Objectif : aller retrouver Durwell pour confier la maissive puis aller
+rejoindre Camilea Voherys Dunnseern et enquêter sur menace Tyrosh +
+mettre en place pacte commercial avec Tyrosh pour vin et peau de renard.
+Sonder la possibilité d’emprunt à Tyrosh (voudrait 3500 do).
+
+Gestion Par défaut (Harwyn) + Précise (Alysanne)
+
+Investissements: .
+
+Armées : ...
+
+Réseaux : Alysanne. soutien campagne par renseignment sur situation
+Carmont Lynn + enquête sur la mort de Garlan Durwell
+
+Cours : Alysanne. qq voyages à des cours pour tisser à terme un réseau
+d’information pour être tenu informé des évènements et infos utiles à la
+famille (notamment sur possible accord commerciaux pour vendre leur
+vin).
+
+- Alysanne va voir son jeune frère écuyer à Hautjardin (+glaner infos et
+chopper ctc/informateurs)
+
+- Alysanne va voir sa famille à Dorne
+
+- qqun’ (Alysanne ou Arron) voyage à Tyrosh avec dame Camilea
+
+Evènements : ...
+
+Prestige : Mariage Alysanne et Daeris Cole. invite du monde, fait un
+tournois, faire goûter son vin.
+
+Stabilité : ...
+
+Recap ressources
+
+Membres de la maisons
+
+Pika 1 : Gestion/Gd Projet
+
+Trésorerie
+
+Personnel
+
+Vypren
+
+Grands projets
+
+1 - Type du grand projet 1 : titre rapide
+
+Respo : reponsable (avec compétence utilisé si gd projet sup)
+
+Ressources : membres plein temps, présents, ressources matérielle et
+humaines.
+
+Objectif : reprise du texte de l’action
+
+Commentaire : reprise du texte de l’action
+
+Gestion (Par défaut/Qualitative/Précise)
+
+Investissements: ...
+
+Armées : ...
+
+Réseaux : ...
+
+Cours : ...
+
+Evènements : ...
+
+Prestige : ...
+
+Stabilité : ...
+
+Participation à d’autres grands projets (à reporter aussi dans le recap
+de la maison qui porte le projet)
+
+1 - Type du grand projet 1 : titre rapide avec Nom de la maison qui le
+porte
+
+Ressources : membres plein temps, présents, ressources matérielle et
+humaines.
+
+Objectif : reprise du texte de l’action
+
+Commentaire : reprise du texte de l’action
+
+Précisions personnelles
+
+Recap ressources
+
+Membres de la maisons
+
+Pika 1 : Gestion/Gd Projet
+
+Trésorerie
+
+Personnel
+
+Orme
+
+Lynn
+
+Vypren
+
+Carmont

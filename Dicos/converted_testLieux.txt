@@ -1,0 +1,397 @@
+0:Abitibi :
+1:Acadie|Acadie de Champlain:
+10:Alger :
+100:Constantinople:
+101:Courlande :
+102:Crète|Crête:
+103:Dachau :
+104:Danemark :
+105:Danube :
+106:Deventer :
+107:Doncières :
+108:Douai :
+109:Dranoutre :
+11:Algérie :
+110:Dresde :
+111:Dunkerque :
+112:Délos :
+113:Ecosse :
+114:Egypte:
+115:Erice :
+116:Espagne:
+117:Estavayer :
+118:Etat du Maine :
+119:Ethiopie :
+12:Allemagne:
+120:Etna :
+121:Euphrate :
+122:Europe|Europe de‧la Renaissance:
+123:Europe de‧l' Est :
+124:Europe du Nord :
+125:Europe du XVIIe :
+126:Evolène :
+127:Extrême-Orient :
+128:Faubourg Saint-Honoré|Saint-Honoré:
+129:Finlande:
+13:Amboise :
+130:Flandres|Flandres de‧la Renaissance:
+131:Flandres |Flandre:
+132:Florence :
+133:Flémalle :
+134:Fort St-Elme :
+135:Franc|France de Louis XIV:
+136:France:
+137:France du Nord :
+138:Frise :
+139:Frösö :
+14:Amsterdam:
+140:Gand :
+141:Gaule :
+142:Genève:
+143:Gisborne :
+144:Golcondes :
+145:Grande-Bretagne :
+146:Greenwich :
+147:Grèce|Grèce de Marguerite Yourcenar|Grèce de Pindare:
+148:Guernesey :
+149:Gujarat :
+15:Amérique:
+150:Géorgie :
+151:Hainaut :
+152:Hambourg :
+153:Harlem :
+154:Hasselt :
+155:Havre :
+156:Hawaï :
+157:Hellade :
+158:Heyst :
+159:Hiroshima :
+16:Amérique du Nord :
+160:Hollande|Hollande de Rembrandt:
+161:Hongrie :
+162:Hymette  :
+163:Hôtel Clarendon|Clarendon:
+164:Inde:
+165:Indes :
+166:Innsbrück|Insbruck:
+167:Innsbrück :
+168:Italie|Italie de Mussolini:
+169:Japon|Empire du Soleil-Levant|Japon de Yourcenar:
+17:Andalousie :
+170:Jasper :
+171:Judée :
+172:Kawabata :
+173:Kentucky :
+174:Kenya :
+175:Kiev :
+176:Kiphisia :
+177:Koenigsberg :
+178:Kotor :
+179:Koudekot :
+18:Angleterre:
+180:Kratovicè|Kratovice:
+181:Kratovicé :
+182:Lac Léman|Léman:
+183:Laodamie :
+184:Laval :
+185:Lettonie :
+186:Lille|Lille du XIXe:
+187:Lisbonne :
+188:Listermolen :
+189:Liverpool :
+19:Anti-Atlas :
+190:Livonie :
+191:Liège|Cité de Liège:
+192:Loire :
+193:Londres :
+194:Louisiane :
+195:Louisville :
+196:Louvain :
+197:Louvre :
+198:Lyon :
+199:Léningrad :
+2:Acropole :
+20:Antibes :
+200:Maestricht :
+201:Maison Carrée :
+202:Majorque :
+203:Malagar :
+204:Malines :
+205:Manosque :
+206:Marathon :
+207:Maremme :
+208:Maroc:
+209:Massachusetts :
+21:Antilles :
+210:Menton :
+211:Mer Adriatique|Adriatique:
+212:Mer Noire:
+213:Mer Égée|Egée:
+214:Merris :
+215:Meudon :
+216:Meuse :
+217:Miami :
+218:Mississippi :
+219:Monaco :
+22:Antinoé :
+220:Mont Kaya|Kaya:
+221:Mont Saint Élie d'Alaska|Saint-Élie d' Alaska:
+222:Mont-Désert:
+223:Mont-Noir|Mont-Noir de Marguerite|Mont Noir:
+224:Mont-Palatin|Palatin:
+225:Montagne Sainte-Geneviève:
+226:Monte-Carlo:
+227:Montréal:
+228:Monts-Déserts :
+229:Mount Royal Hôtel :
+23:Antioche :
+230:Mount-Desert Island|Montdésert:
+231:Mount-Desert Island :
+232:Mount-Deserts Island|Mount Deserts:
+233:Mount-Désert Island|Mount Desert:
+234:Mycènes :
+235:Méditerranée :
+236:Münster|Munster:
+237:Münster :
+238:Naples:
+239:Naxos :
+24:Anvers :
+240:Neuchâtel:
+241:New York |New-York:
+242:Newcastle :
+243:Nice :
+244:Nicomédie :
+245:Nil:
+246:Nord de‧la France :
+247:Nord-Est de‧la France :
+248:Normandie:
+249:Northeast Harbor :
+25:Arcadie :
+250:Norvège:
+251:Nouveau Mexique|Nouveau-Mexique:
+252:Nouveau Monde:
+253:Nouveau-Monde :
+254:Nouvelle Zélande:
+255:Nouvelle-Angleterre:
+256:Occident :
+257:Occitanie :
+258:Odessos|A Odessos:
+259:Olympe :
+26:Arcoz :
+260:Olympie :
+261:Ontario du Nord :
+262:Oradour :
+263:Orient :
+264:Orotava :
+265:Ostende:
+266:Pacifique :
+267:Pakistan:
+268:Palais de Topkapi|Topkapi:
+269:Palestine:
+27:Argonne :
+270:Parc Départemental Marguerite Yourcenar :
+271:Paris|Paris de Louis-Philippe:
+272:Parthénon:
+273:Pays-Bas|Pays-Bas du XVIe:
+274:Pearl Harbor :
+275:Petit-Pré :
+276:Petite-Plaisance|Petite Plaisance:
+277:Petite-Plaisance :
+278:Picardie :
+279:Podolie :
+28:Arras :
+280:Pologne:
+281:Port-Royal:
+282:Portland:
+283:Portugal :
+284:Proche Orient|:
+285:Proche-Orient :
+286:Provence:
+287:Prusse|Prusse de Frédéric II:
+288:Périgord:
+289:Québec:
+29:Artois :
+290:Raguse :
+291:Raspelière :
+292:Ravenne :
+293:Rawdon :
+294:Rennes :
+295:Richmond :
+296:Riga :
+297:Ritz :
+298:Riverside :
+299:Riviera :
+3:Afrique:
+30:Asie :
+300:Rivière-aux-Chiens :
+301:Rocheuses :
+302:Rome|Rome du XVIIIe|Rome de Trajan|Rome du XVIe:
+303:Roumanie :
+304:Rue Côte-des-Neiges|Côte-des-Neiges:
+305:Russie :
+306:Saint James Avenue :
+307:Saint-Germain-des-Prés :
+308:Saint-Jacques-de-Compostelle:
+309:Saint-Jean Cappel :
+31:Asie Mineure :
+310:Saint-Sauveur-en-Puisaye :
+311:Sainte-Marie-Mineure :
+312:Saipan :
+313:Salzbourg|Salzbourg de Mozart:
+314:San Francisco:
+315:Sanctuaire Sainte-Anne de Beaupré|Sainte-Anne-de-Beaupré:
+316:Savannah :
+317:Scandinavie:
+318:Scheveningue :
+319:Serbie :
+32:Athènes|Athènes de Pindare:
+320:Sicile:
+321:Sienne:
+322:Sierre :
+323:Sologne:
+324:Somesville :
+325:Strasbourg:
+326:Suarlée :
+327:Sudbury :
+328:Suisse:
+329:Surrey :
+33:Atlantique:
+330:Suède :
+331:Syracuse :
+332:Syrie :
+333:Sèvres :
+334:Sénat :
+335:Tamise :
+336:Tartaries :
+337:Tchécoslovaquie:
+338:Terre-Neuve :
+339:Thaïlande:
+34:Attique :
+340:Thessalie:
+341:Thuin :
+342:Thèbes :
+343:Théâtre des Mathurins|Mathurins:
+344:Théâtre-Poème :
+345:Tibet :
+346:Tibur :
+347:Times Square:
+348:Tivoli :
+349:Tokyo:
+35:Autriche|Autriche de‧la Belle Epoque:
+350:Touraine :
+351:Tours :
+352:Trianon :
+353:Troie :
+354:Trézène :
+355:Ténédos :
+356:U.S.A :
+357:Ukraine:
+358:Vancouver:
+359:Vatican:
+36:Avenches :
+360:Venise|Venice:
+361:Verrières :
+362:Versailles:
+363:Vevey :
+364:Vichy :
+365:Victoria :
+366:Vienne :
+367:Vietnam :
+368:Vieux Continent :
+369:Vigny:
+37:Babylone :
+370:Villa Hadriana|Villa Adriana|Hadriana|Adriana:
+371:Villa Mont-Noir :
+372:Villa Médicis du Nord:
+373:Vleninckhof :
+374:Vufflens-le-Château :
+375:Vérone :
+376:Washington:
+377:Waterloo:
+378:Westphalie :
+379:Windsor :
+38:Bailleul :
+380:Woroïno :
+381:Yokohama :
+382:York:
+383:Yorkshire :
+384:Yukon :
+385:fontaine de Trévi|Trévi:
+386:quai Conti|Conti:
+387:rue Daru|Daru:
+388:rue de Rivoli|Rivoli:
+389:Éleusis|Eleusis:
+39:Balbec :
+390:État du Maine|Maine:
+391:États-Unis|Aux Etats-Unis:
+392:Îles du Dodécanèse|Dodécanèse:
+393:île de Sutton|Sutton:
+394:île de Tessel|Tessel:
+395:îles Lipari|Lipari:
+396:îles Sporades|Sporades:
+4:Afrique du Sud :
+40:Balkans|Balkans du Lait de‧la Mort:
+41:Baltique :
+42:Banff :
+43:Bar Harbor:
+44:Bayreuth  :
+45:Beauce :
+46:Belgique|Belgique du XIXe:
+47:Belvianes :
+48:Bethléem :
+49:Bithynie :
+5:Aix-en-Provence|Aix:
+50:Bohème :
+51:Bohême :
+52:Bois de Boulogne :
+53:Bombay :
+54:Bordeaux :
+55:Boston :
+56:Boulevard Saint-Germain|Saint-Germain:
+57:Bourges :
+58:Bretagne:
+59:Bruges|Bruges de Zénon:
+6:Aix-en-Provence :
+60:Bruxelles:
+61:Buchenwald :
+62:Buchillon :
+63:Budapest :
+64:Bulgarie :
+65:Byzance:
+66:Bâle|Bâle de Böklin:
+67:Cachemire :
+68:Calabre :
+69:Calais :
+7:Alaska:
+70:Canaan :
+71:Canada:
+72:Canope :
+73:Capri|Caprée:
+74:Caraïbes :
+75:Carcassonne :
+76:Carlisle :
+77:Caroline du Sud :
+78:Cassel :
+79:Chambord :
+8:Albanie :
+80:Champs-Elysées :
+81:Charleston :
+82:Chenonceau :
+83:Chenonceaux|Chenonceanx:
+84:Chenonceaux :
+85:ChiberreChine:
+86:Chicago :
+87:Chine :
+88:Chitry-les-Mines :
+89:Chypre :
+9:Alexandrie :
+90:Château de Frontenac|Frontenac:
+91:Château-Richer :
+92:Chéronée :
+93:Cnossos :
+94:Cologne :
+95:Colombie :
+96:Colombie-Britannique :
+97:Colorado :
+98:Combray :
+99:Connecticut :

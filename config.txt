@@ -1,0 +1,11 @@
+[Corpus]
+fichiers=CorpusOmbreTxt
+
+[Dictionnaires]
+
+PERSONNAGES=DicoOmbre\\Personnage.txt
+LIEUXX=DicoOmbre\\Lieux.txt
+
+[Autre]
+Communs = DicoOmbre\\communs.txt
+Bruits = DicoOmbre\\noise.txt
