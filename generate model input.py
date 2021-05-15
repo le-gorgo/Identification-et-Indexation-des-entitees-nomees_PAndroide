@@ -155,7 +155,7 @@ if __name__ == "__main__":
     noiseFile = "testNoise.txt"
     corpus, logf = id.initCorpus(["articles_presse_yourcenar.txt"], "out.log")
     toSort, mots, dicos, communs, noise = initialisation(listDicoFiles, listDicoNames, communFile, noiseFile,
-                                                         "toSort2.txt")
+                                                         "toSort.txt")
     i = 1
     lines = corpus.split("\r")
     with open('dataAnnotated.csv', 'w+', encoding="utf-8", newline='') as file:
