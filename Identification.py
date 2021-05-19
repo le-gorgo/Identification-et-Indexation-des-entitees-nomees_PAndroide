@@ -2,6 +2,8 @@
 import codecs
 import functools
 import string
+import pypandoc
+import os
 #ce fichier reprend le travail du fichier test3.py pour que ce soit plus clair ce qu'il fait
 #present dans le code initial
 def postFilter(dico, liste):
@@ -85,23 +87,48 @@ def extractRef(dico, ref):
     return res
 
 #present dans le code initial
-def loadRef(nomFic):
-    f = codecs.open(nomFic, "r", "utf-8", "replace")
+#On suppose que le fichier est dans le bon format c'est à dire <identifiant>:<alias séparés par des | >:<occurences sous forme (fichier,ligne,mot) séparés par des ;>
+def loadRef(nomFic,occurences):
+    if(os.path.isfile(nomFic)):
+        f = codecs.open(nomFic, "r", "utf-8", "replace")
+    else:
+        f=codecs.open(nomFic, "w+", "utf-8", "replace")
     t = f.read()
     l = t.splitlines()
     res = dict()
     for line in l:
-        mots = line.split('|')
-        lab = mots[0]
-        res[lab] = []
-        for r in mots:
-            res[lab].append(r.strip())
-    f.close()
-    return res
+        line=line.split(':')
+        id=line[0]
+        mots = line[1].split('|')
+        occ=line[2].split(';')
+        for o in occ:
 
+            occurences.append(o)
+        res[id] = []
+        for r in mots:
+            res[id].append(r.strip())
+    f.close()
+    return res,occurences
+def loadMiscRef(nomFic,occurences):
+    if(os.path.isfile(nomFic)):
+        f = codecs.open(nomFic, "r", "utf-8", "replace")
+    else:
+        f=codecs.open(nomFic, "w+", "utf-8", "replace")
+    t = f.read()
+    l = t.splitlines()
+    res = dict()
+    for line in l:
+        line=line.split(':')
+        mot=line[0]
+        occ=line[1].split(';')
+        for o in occ:
+            occurences.append(o)
+        res[mot]=occ
+    f.close()
+    return res,occurences
 #present dans le code initial
 def saveRef(d, nomFic):
-    f = codecs.open(nomFic, "w", "utf8", "replace")
+    f = codecs.open(nomFic, "w+", "utf8", "replace")
     for (lab, liste) in sorted(d.items()):
         line = lab
         for mot in liste[1:]:
@@ -167,12 +194,12 @@ def isParticule(mot):
                   "de" + '\u2027' + "L'"]
     return mot in particules
 
-#ajoute un mot dans le dico (pas utilisé ici puisque utilisant l'ancienne representation des données)
-def addDico(dico, mot):
+#ajoute un mot dans le dico
+def addDico(dico, mot,pos):
     if mot in dico:
-        dico[mot] = dico[mot] + 1
+        dico[mot].append(pos)
     else:
-        dico[mot] = 1
+        dico[mot] = [pos]
 
 
 #present dans le fichier initial(pas sur de à quoi ca sert)
@@ -221,151 +248,122 @@ def traiterCreator(line):
 def initCorpus(fileList,log):
     f=[]
     for file in fileList:
-        f.append(codecs.open(file, "r", "utf-8", "replace"))
+        if(".docx" not in file[-5:-1]):
+            t=codecs.open(file, "r", "utf-8", "replace")
+            f.append(t.read())
+            t.close()
+        else:
+            f.append(pypandoc.convert_file(file,'plain'))
     logf= codecs.open(log, "w+", "utf-8", "replace")
-    corpus=""
-    for file in f:
-        corpus+="\n"+file.read()
-        file.close()
-    corpus = corpus.replace('\u2026', ' ')
-    corpus = corpus.replace('\u2019', "'")
-    corpus = corpus.replace("de la", "de" + '\u2027' + "la")
-    corpus = corpus.replace("de La", "de" + '\u2027' + "La")
-    corpus = corpus.replace("de l'", "de" + '\u2027' + "l'")
-    corpus = corpus.replace("de L'", "de" + '\u2027' + "L'")
-    corpus = corpus.replace("'", "' ")
-    corpus = corpus.replace("  ", " ")
+
+    corpus=dict()
+    for i in range(len(fileList)):
+        corpus[fileList[i]]=f[i]
+    for i in range(len(corpus)):
+        corpus[fileList[i]] = corpus[fileList[i]].replace('\u2026', ' ')
+        corpus[fileList[i]] = corpus[fileList[i]].replace('\u2019', "'")
+        corpus[fileList[i]] = corpus[fileList[i]].replace("de la", "de" + '\u2027' + "la")
+        corpus[fileList[i]] = corpus[fileList[i]].replace("de La", "de" + '\u2027' + "La")
+        corpus[fileList[i]] = corpus[fileList[i]].replace("de l'", "de" + '\u2027' + "l'")
+        corpus[fileList[i]] = corpus[fileList[i]].replace("de L'", "de" + '\u2027' + "L'")
+        corpus[fileList[i]] = corpus[fileList[i]].replace("'", "' ")
+        corpus[fileList[i]] = corpus[fileList[i]].replace("  ", " ")
     return corpus,logf
-#recupere le contenu des dictionnaires(sous forme de fichier) pour les stocker dans un tableau(un dictionnaire serait probablement mieux)
+#recupere le contenu des dictionnaires(sous forme de fichier) pour les stocker dans un tableau
 def initDicos(dicoNames,dicoFiles,communsFile,noiseFile):
     if(not len(dicoNames)==len(dicoFiles)):
-        raise ConfigError("Different number of files and names for dictionnaries")
+        raise Exception("Different number of files and names for dictionnaries")
     dicos={}
+    occurences=[]
     for i in range(len(dicoNames)):
-        dicos[dicoNames[i]]= loadRef(dicoFiles[i])
-    f = codecs.open(communsFile, "r", "utf-8", "replace")
-    t = f.read()
-    communs = t.splitlines()
-    f.close()
-    f = codecs.open(noiseFile, "r", "utf-8", "replace")
-    t = f.read()
-    noise = t.splitlines()
-    f.close()
-    return dicos,communs,noise
+        dicos[dicoNames[i]],occurences= loadRef(dicoFiles[i],occurences)
+
+    communs,occurences = loadMiscRef(communsFile,occurences)
+
+    noise =loadMiscRef(noiseFile,occurences)
+    return dicos,communs,noise,occurences
 #fonction qui detecte les mots qui pourrait etre des noms :
 #code présent dans le fichier initial arranger pour les modifications
-def identify(corpus,exc,logf):
-    lines = corpus.split('\r')
-    i = 0
-    np = []
-    # print "Line 1 :", lines[0]
-    for line in lines:
-        # print("Line : ", line, ">>", isHeadline(line))
-        # if not (isHeadline(line)):
-        #     f2.write("\n")
-        # f2.write("Line : " + line + "\n")
-        # if isHeadline(line):
-        #     if line.startswith("creator"):
-        #         recompose = traiterCreator(line)
-        #         if len(recompose) > 0:
-        #             if not (recompose in crit):
-        #                 crit[recompose] = [recompose]
-        #             alias = line.split(':')[1].strip()
-        #             if not (alias in crit[recompose]):
-        #                 crit[recompose].append(alias)
-        # else:
-        mots = line.split()
-        # print "Mots : ", mots
-        if len(mots) > 0:
-            motprec = mots[0]
-        pref = ""
-        prec = ""
-        for mot in mots[1:]:
-            mot0=mot
-            mot = purgeNotes(mot)
+def identify(corpus,exc,logf,occurences):
+    np=dict()
+    for (fileName,text) in corpus.items():
+        lines = text.splitlines()
+        i = 0
+        for i in range(len(lines)):#line in lines:
 
-            if isInitiales(mot):
-                if len(pref) > 0:
-                    pref = pref + " " + mot
-                else:
-                    pref = mot
-                if len(motprec) > 0 and motprec[-1] in {'.'}:
-                    motprec = ""
-            elif isParticule(mot) and len(pref) > 0:
-                pref = pref + " " + mot
-                if len(motprec) > 0 and motprec[-1] in {'.'}:
-                    motprec = ""
-            elif isParticule(mot) and startsUpper(motprec) and not (motprec[-1] in {',', ')'}):
-                pref = motprec + " " + mot
-                motprec = ""
-            elif len(pref) == 0 and isPrefixe(mot):
-                pref = mot
-                if len(motprec) > 0 and motprec[-1] in {'.'}:
-                    motprec = ""
-            elif not (len(motprec) > 0 and motprec[-1] in {'.'}):
-                if startsUpper(mot):
+            mots = lines[i].split()
+            if len(mots) > 0:
+                motprec = mots[0]
+            pref = ""
+            prec = ""
+            for j in range(1,len(mots)):#mot in mots[1:]:
+                if(str((fileName,i,j))in occurences):
+                    continue
+                mot0=mots[j]
+                mot = purgeNotes(mots[j])
+
+                if isInitiales(mot):
                     if len(pref) > 0:
-                        mot = pref + ' ' + mot.strip()
-                        pref = ""
+                        pref = pref + " " + mot
                     else:
-                        mot = mot.strip()
-                    mot2 = mot
-                    while (mot2[-1] in string.punctuation) or (mot2[-1] in {')'}):
-                        mot2 = mot2[:-1]
-                    if not (exclus(mot2, exc)):
-                        print(">>", mot2)
-                        logf.write("\t\t>>" + mot2 + "\t[" + motprec + ']\n')
-                        # addDico(np, mot2)
+                        pref = mot
+                    if len(motprec) > 0 and motprec[-1] in {'.'}:
+                        motprec = ""
+                elif isParticule(mot) and len(pref) > 0:
+                    pref = pref + " " + mot
+                    if len(motprec) > 0 and motprec[-1] in {'.'}:
+                        motprec = ""
+                elif isParticule(mot) and startsUpper(motprec) and not (motprec[-1] in {',', ')'}):
+                    pref = motprec + " " + mot
+                    motprec = ""
+                elif len(pref) == 0 and isPrefixe(mot):
+                    pref = mot
+                    if len(motprec) > 0 and motprec[-1] in {'.'}:
+                        motprec = ""
+                elif not (len(motprec) > 0 and motprec[-1] in {'.'}):
+                    if startsUpper(mot):
+                        if len(pref) > 0:
+                            mot = pref + ' ' + mot.strip()
+                            pref = ""
+                        else:
+                            mot = mot.strip()
+                        mot2 = mot
+                        while (mot2[-1] in string.punctuation) or (mot2[-1] in {')'}):
+                            mot2 = mot2[:-1]
+                        if not (exclus(mot2, exc)):
+                            #print(">>", mot2)
+                            logf.write("\t\t>>" + mot2 + "\t[" + motprec + ']\n')
+                            addDico(np, mot2,(fileName,i,j))
 
-                        np.append((mot2,(lines.index(line),mots.index(mot0))))
-                        if startsUpper(motprec) and not (
-                                isPrefixe(motprec) or motprec[-1] in {',', ')'} or exclus(motprec, exc)):
-                            mot3 = motprec + " " + mot2
-                            print(">>>", mot3)
-                            logf.write("\t\t   >>>" + mot3 + '\n')
-                            # addDico(np, mot3)
-                            np.append((mot3,(lines.index(line),mots.index(mot0))))
-                            mot = motprec + " " + mot
+                            #np.append((mot2,(lines.index(line),mots.index(mot0))))
+                            if startsUpper(motprec) and not (
+                                    isPrefixe(motprec) or motprec[-1] in {',', ')'} or exclus(motprec, exc)):
+                                mot3 = motprec + " " + mot2
+                                #print(">>>", mot3)
+                                logf.write("\t\t   >>>" + mot3 + '\n')
+                                addDico(np, mot3,(fileName,i,j))
+                                #np.append((mot3,(lines.index(line),mots.index(mot0))))
+                                mot = motprec + " " + mot
+                    else:
+                        pref = ""
+                    motprec = mot
                 else:
-                    pref = ""
-                motprec = mot
-            else:
-                motprec = mot
+                    motprec = mot
 
-        i = i + 1
+            i = i + 1
     return np
-#Fonction qui devrait permettre d'utiliser les dicos, pas encore sur du resultat de cette fonction.
-def testDicos(dicos,dicoNames,dicoFiles,np):
-    before = len(np)
-    dDicos={}
-    for i in range(len(dicoNames)):
-        dicos[dicoNames[i]]= loadRef(dicoFiles[i])
-        dDicos[dicoNames[i]]=extractFilterRef(np,dicos[dicoNames[i]])
 
-    # lieux = loadRef("testLieux.txt")
-    # dlieux = extractFilterRef(np, lieux)
-    # # pers=loadRef("refPerson.txt")
-    # pers = loadRef("testPers.txt")
-    # dpers = extractFilterRef(np, pers)
-    # # authors=loadRef("refAuthor.txt")
-    # authors = loadRef("testAuthors.txt")
-    # dauthors = extractFilterRef(np, authors)
-    # # oeuvres=loadRef("refOeuvre.txt")
-    # oeuvres = loadRef("testOeuvres.txt")
-    # doeuvres = extractFilterRef(np, oeuvres)
-    # # inst=loadRef("refInst.txt")
-    # inst = loadRef("testInst.txt")
-    # dinst = extractFilterRef(np, inst)
-    # crit = loadRef("testCrit.txt")
-    # dcrit = extractFilterRef(np, crit)
-    # noise = loadRef("testNoise.txt")
-    # dnoise = extractFilterRef(np, noise)
+
 #creer un fichier à partir de la liste de mots générée
 def generateToSort(np,fileName):
     f = codecs.open(fileName, "w+", "utf-8", "replace")
-    for mot in sorted(np, key=functools.cmp_to_key(lambda x, y: cmp(len(x[0]), len(y[0])))):
+    for mot in np.keys():
+        pos=np[mot]
         # print mot, ":", np[mot]
-        f.write(mot[0] + "@" + str(mot[1]) + "\n")
+        f.write(mot + "@" )
+        for p in pos:
+            f.write(";"+str(p))
+        f.write('\n')
     f.close()
 
 
@@ -375,102 +373,7 @@ if __name__=="__main__":
     dicoNames=["LIEUX","AUTHORS","OEUVRES","PERSONNAGES","INSTITUTIONS","CRITIQUES"]
     communsFile="testCommun.txt"
     noiseFile="testNoise.txt"
-    corpus,logf=initCorpus(["test1.txt","articles_presse_yourcenar.txt"],"out.log")
+    corpus,logf=initCorpus(["articles_presse_yourcenar.txt"],"out.log")
     dicos,communs,noise=initDicos(dicoNames,dicoFiles,communsFile,noiseFile) #les variables sont inutiles pour l'instant vu qu'on ne teste plus rien sur la presence des mots dans un dico.
     np=identify(corpus,communs,logf)
     generateToSort(np,"toSort2.txt")
-
-# f1 = codecs.open("articles_presse_yourcenar.txt", "r", "utf-8", "replace")
-# f2 = codecs.open("out.log", "w", "utf-8", "replace")
-# text = f1.read()
-#
-# text = text.replace('\u2026', ' ')
-# text = text.replace('\u2019', "'")
-# text = text.replace("de la", "de" + '\u2027' + "la")
-# text = text.replace("de La", "de" + '\u2027' + "La")
-# text = text.replace("de l'", "de" + '\u2027' + "l'")
-# text = text.replace("de L'", "de" + '\u2027' + "L'")
-# text = text.replace("'", "' ")
-# text = text.replace("  ", " ")
-# text=text.decode('unicode_escape','replace').encode('ascii','replace')
-# text=text.replace(u'\xc3\xa9','e')
-# text=text.replace("\xc2\xa0"," ")
-# f3 = codecs.open("testCommun.txt", "r", "utf-8", "replace")
-# t = f3.read()
-# commun = t.splitlines()
-# f3.close()
-# exc = commun
-
-# f3=codecs.open("dicoLieux.txt","r","utf-8","replace")
-# t = f3.read()
-# lieux=t.splitlines()
-# f3.close()
-# crit = loadRef("testCrit.txt")
-
-
-    # if i>20 :
-# break
-
-# f1.close()
-
-# saveRef(crit, "testCrit.txt")
-#
-# before = len(np)
-# # lieux=loadRef("refLieux.txt")
-# lieux = loadRef("testLieux.txt")
-# dlieux = extractFilterRef(np, lieux)
-# # pers=loadRef("refPerson.txt")
-# pers = loadRef("testPers.txt")
-# dpers = extractFilterRef(np, pers)
-# # authors=loadRef("refAuthor.txt")
-# authors = loadRef("testAuthors.txt")
-# dauthors = extractFilterRef(np, authors)
-# # oeuvres=loadRef("refOeuvre.txt")
-# oeuvres = loadRef("testOeuvres.txt")
-# doeuvres = extractFilterRef(np, oeuvres)
-# # inst=loadRef("refInst.txt")
-# inst = loadRef("testInst.txt")
-# dinst = extractFilterRef(np, inst)
-# crit = loadRef("testCrit.txt")
-# dcrit = extractFilterRef(np, crit)
-# noise = loadRef("testNoise.txt")
-# dnoise = extractFilterRef(np, noise)
-
-# print("Resultats : ")
-# f2.write("\n\n Resultats : \n")
-# for mot in sorted(np):
-#     print(mot, ":", np[mot])
-#     f2.write(mot + " : " + str(np[mot]) + "\n")
-# f2.close()
-
-# print "RESTE"
-# for (mot,f) in sorted(np.items(),lambda a,b:cmp(a[1],b[1])):
-#   print mot, ":", f
-
-# print("\nLIEUX")
-# for (mot, f) in sorted(list(dlieux.items()), key=functools.cmp_to_key(lambda x, y: cmp(len(y), len(x)))):
-#     print(mot, ":", f)
-# print("\nAUTHORS")
-# for (mot, f) in sorted(list(dauthors.items()), key=functools.cmp_to_key(lambda x, y: cmp(len(y), len(x)))):
-#     print(mot, ":", f)
-# print("\nCRITIQUES")
-# for (mot, f) in sorted(list(dcrit.items()), key=functools.cmp_to_key(lambda x, y: cmp(len(y), len(x)))):
-#     print(mot, ":", f)
-# print("\nOEUVRES")
-# for (mot, f) in sorted(list(doeuvres.items()), key=functools.cmp_to_key(lambda x, y: cmp(len(y), len(x)))):
-#     print(mot, ":", f)
-# print("\nPERSONNAGES")
-# for (mot, f) in sorted(list(dpers.items()), key=functools.cmp_to_key(lambda x, y: cmp(len(y), len(x)))):
-#     print(mot, ":", f)
-# print("\nINSTITUTIONS")
-# for (mot, f) in sorted(list(dinst.items()), key=functools.cmp_to_key(lambda x, y: cmp(len(y), len(x)))):
-#     print(mot, ":", f)
-
-# f2 = codecs.open("toSort.txt", "w", "utf-8", "replace")
-# for mot in sorted(np):
-#     # print mot, ":", np[mot]
-#     f2.write(mot + " : " + str(np[mot]) + "\n")
-# f2.close()
-
-# print("Nb References : ", len(np), "avant posfiltering : ", before, "lieux : ", len(dlieux), "auteurs : ",
-#       len(dauthors))
